@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.38-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.38-beta/LJB-Talino-Setup-0.1.38-beta.exe",
-    "sha256": "a4379f2c6d4f76f39177dd30fad062b2ed04115cb60c38df421219fc4e2750be",
-    "size": 81729692,
-    "notes": "Fixes the extra right-side gap in Settings by matching its panel width to the other workspace pages.",
-    "published_at": "2026-10-17T13:49:25.298707+00:00"
+    "version": "0.1.39-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.39-beta/LJB-Talino-Setup-0.1.39-beta.exe",
+    "sha256": "084b68c129706f1f07a6182120437162732f6b7fe96ad2ada0acf2b5f0ea0e25",
+    "size": 81732348,
+    "notes": "The spinning recitation wheel now automatically fits the projection window height, keeping the whole wheel visible without a vertical scrollbar.",
+    "published_at": "2026-10-17T14:20:02.996434+00:00"
   },
-  "signature": "VSTBD755wW8LlYuO4m0I6pq/kG9UBn6VcigRU2vXszJqOiYnm3mYMbFdIIrls8nBl5EMfTsmZaVMNMiOhyyhBg=="
+  "signature": "cBnRQA3OLA9jDsRcXORnwAh6RfDQmzyyJfIi12WbLeugIAoXiiByK+/3ECUwvWnAxEOCmwiNFOhl5JF64Ui9BQ=="
 }
