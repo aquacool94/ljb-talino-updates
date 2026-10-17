@@ -1,0 +1,13 @@
+{
+  "release": {
+    "schema": 1,
+    "product": "LJB Talino",
+    "version": "0.1.33-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.33-beta/LJB-Talino-Setup-0.1.33-beta.exe",
+    "sha256": "efcf9706389f8b7e8592ecb3bd69c6dc39c78e46861237fce95cdec6e5c5feef",
+    "size": 81689076,
+    "notes": "Adds automatic update checks, verified downloads, and one-click installation.",
+    "published_at": "2026-10-17T11:22:32.360229+00:00"
+  },
+  "signature": "blx50D0KzGWmshNrew9A4STqwbCx58ZsMmLucj77ofZ5DtYle/oVkXZzNAfT1D9zzOKu1Ih8nXeN0B2yWRX+DQ=="
+}
