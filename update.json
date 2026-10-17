@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.33-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.33-beta/LJB-Talino-Setup-0.1.33-beta.exe",
-    "sha256": "efcf9706389f8b7e8592ecb3bd69c6dc39c78e46861237fce95cdec6e5c5feef",
-    "size": 81689076,
-    "notes": "Adds automatic update checks, verified downloads, and one-click installation.",
-    "published_at": "2026-10-17T11:22:32.360229+00:00"
+    "version": "0.1.34-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.34-beta/LJB-Talino-Setup-0.1.34-beta.exe",
+    "sha256": "f9d06eae772629dc2363099b28591072c878a74217d01810e5974b68f9b52cc4",
+    "size": 81689789,
+    "notes": "Fixes the large blank Recitation settings panel when the neighboring panel is expanded.",
+    "published_at": "2026-10-17T11:57:48.226068+00:00"
   },
-  "signature": "blx50D0KzGWmshNrew9A4STqwbCx58ZsMmLucj77ofZ5DtYle/oVkXZzNAfT1D9zzOKu1Ih8nXeN0B2yWRX+DQ=="
+  "signature": "xWaK+UWk04uRzpU5uvfMJv84P1ZBjMoXq9Wz8I39veSgk0JUrUlVHzYbbIUn6V6bBu7laED3gNT7vypVTJksAw=="
 }
