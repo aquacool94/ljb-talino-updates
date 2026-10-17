@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.36-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.36-beta/LJB-Talino-Setup-0.1.36-beta.exe",
-    "sha256": "0212e83e94be9dae529fac3b4a95752c49fc86b1287eeb1e4ca62fb0fdb3e64f",
-    "size": 81731284,
-    "notes": "Redesigned recitation wheel with coordinated colors, gold pointer and star center. Cleaner transparent logo startup with a smooth handoff to the app and recovery for slow or failed startup.",
-    "published_at": "2026-10-17T13:26:29.774380+00:00"
+    "version": "0.1.37-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.37-beta/LJB-Talino-Setup-0.1.37-beta.exe",
+    "sha256": "c5f7d973e150f6fabb0f243a6450622d59b7be946acb08ccab3761184d377c68",
+    "size": 81731848,
+    "notes": "Fixes the empty Home date badge and restores school name, classroom totals, schedule and recent exams after the by Sir Louie header update.",
+    "published_at": "2026-10-17T13:36:56.865856+00:00"
   },
-  "signature": "dHr2OYOY5iC2bCT3+WxlDYK2VDc6zFhvNTOjimdON3rwWWhjEtEHKvMuODbsVaoIcVv7VdN9OJEypXP2ycWFDw=="
+  "signature": "pthxAQ3qPqLaGFuRobHTGTFahecrMO9i8r+GRkXFZqdMhe3fyUHfswqe6yEc5tLAwcTFLITWIp56VcfW4BDhBQ=="
 }
