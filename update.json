@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.35-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.35-beta/LJB-Talino-Setup-0.1.35-beta.exe",
-    "sha256": "d1598a16c38e49ca0a0a5d37c699ba552822a8c2b12ab4fdc8bb0273173845e4",
-    "size": 81691685,
-    "notes": "Cleaner Settings with category tabs; simplified Groups setup, saving and sharing controls; app header now displays by Sir Louie.",
-    "published_at": "2026-10-17T12:48:01.304020+00:00"
+    "version": "0.1.36-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.36-beta/LJB-Talino-Setup-0.1.36-beta.exe",
+    "sha256": "0212e83e94be9dae529fac3b4a95752c49fc86b1287eeb1e4ca62fb0fdb3e64f",
+    "size": 81731284,
+    "notes": "Redesigned recitation wheel with coordinated colors, gold pointer and star center. Cleaner transparent logo startup with a smooth handoff to the app and recovery for slow or failed startup.",
+    "published_at": "2026-10-17T13:26:29.774380+00:00"
   },
-  "signature": "vnjnDF7AYGTURtcfXpkx/ZjyjsJXyEW86tKGgUG4OGQNlTNz5zzN3M/uswiIqzZ1Jr9CGpXac5qEwpK5o28DBg=="
+  "signature": "dHr2OYOY5iC2bCT3+WxlDYK2VDc6zFhvNTOjimdON3rwWWhjEtEHKvMuODbsVaoIcVv7VdN9OJEypXP2ycWFDw=="
 }
