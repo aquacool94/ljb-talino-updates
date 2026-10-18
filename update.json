@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.42-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.42-beta/LJB-Talino-Setup-0.1.42-beta.exe",
-    "sha256": "3209b1f21453974fccaef648c3dfffcd93668954029c95308631091e8e9c2367",
-    "size": 81745789,
-    "notes": "Moves the teacher inspiration quote to a slim banner below the Home greeting and classroom totals. Balances the classroom tool cards with a full-width Exams row, darker titles and consistent left alignment. Keeps daily shortcuts visible across supported window sizes.",
-    "published_at": "2026-10-18T12:50:05.063909+00:00"
+    "version": "0.1.43-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.43-beta/LJB-Talino-Setup-0.1.43-beta.exe",
+    "sha256": "4b50c354a8f1bf03ef7ec609f0813eaf29903d4de49f4a2399e6d1911b939ccd",
+    "size": 81749934,
+    "notes": "Adds free-trial registration with teacher name, email, optional school name, and a privacy notice with explicit agreement. Existing trial users can add their details without restarting or extending the trial. Updates the owner activation manager with contact details and search by name, email, school or device code.",
+    "published_at": "2026-10-18T13:49:43.745045+00:00"
   },
-  "signature": "Je1affRI3Nx5KJ1sVoi550PseiCLAq4fnc+0SqDSqbpwM9Zlf2mGxcX2ldqgM52ZeE1DmOU7srxgu7D3aZ9IBw=="
+  "signature": "iKM+2F+SHVD2gqirMEtzfjYzEoOzAINOtpYIAHFvCIlstVAXB8NIPLdS2oMWKoDZGXZQnbTdOz1IAt5vxoUGAg=="
 }
