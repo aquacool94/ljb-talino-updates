@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.40-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.40-beta/LJB-Talino-Setup-0.1.40-beta.exe",
-    "sha256": "6c79db422ff360bb851f3780b799b4d5602a2f56796d925642a786768fb0509f",
-    "size": 81743633,
-    "notes": "Adds a 2026-2027 school calendar with sourced DepEd reference dates, teacher-created events, Today and Upcoming on Home, and in-app reminders with dismissal or a 15-minute snooze. Improves shutdown during startup.",
-    "published_at": "2026-10-18T11:09:27.757044+00:00"
+    "version": "0.1.41-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.41-beta/LJB-Talino-Setup-0.1.41-beta.exe",
+    "sha256": "eea87b3eba8bdd43c529bd5993123c5adf4745e8246a79d3d1e85a839e564a8b",
+    "size": 81745637,
+    "notes": "Redesigns Home with prominent Attendance, Recitation and Floating Timer shortcuts, compact classroom totals, a combined schedule and calendar overview, and smaller tool and inspiration cards. Improves layout across supported window sizes.",
+    "published_at": "2026-10-18T12:23:47.333882+00:00"
   },
-  "signature": "cYm+c9MbP8bL/T74IFYq58QdAoHY2gyfjWmJDS9WVwiDa44IJRWv9sXdWaJWPNYX9FoV0YvP/os/y9Zj8lTsDA=="
+  "signature": "fQzfgQU4xGReCtaPDFzHkJFemt5p5eOmDp2zZERcSeK9f5viek+pqY+B8pbHpHrmpmeS3WZEJhtC9TkBmIwiDA=="
 }
