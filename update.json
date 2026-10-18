@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.41-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.41-beta/LJB-Talino-Setup-0.1.41-beta.exe",
-    "sha256": "eea87b3eba8bdd43c529bd5993123c5adf4745e8246a79d3d1e85a839e564a8b",
-    "size": 81745637,
-    "notes": "Redesigns Home with prominent Attendance, Recitation and Floating Timer shortcuts, compact classroom totals, a combined schedule and calendar overview, and smaller tool and inspiration cards. Improves layout across supported window sizes.",
-    "published_at": "2026-10-18T12:23:47.333882+00:00"
+    "version": "0.1.42-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.42-beta/LJB-Talino-Setup-0.1.42-beta.exe",
+    "sha256": "3209b1f21453974fccaef648c3dfffcd93668954029c95308631091e8e9c2367",
+    "size": 81745789,
+    "notes": "Moves the teacher inspiration quote to a slim banner below the Home greeting and classroom totals. Balances the classroom tool cards with a full-width Exams row, darker titles and consistent left alignment. Keeps daily shortcuts visible across supported window sizes.",
+    "published_at": "2026-10-18T12:50:05.063909+00:00"
   },
-  "signature": "fQzfgQU4xGReCtaPDFzHkJFemt5p5eOmDp2zZERcSeK9f5viek+pqY+B8pbHpHrmpmeS3WZEJhtC9TkBmIwiDA=="
+  "signature": "Je1affRI3Nx5KJ1sVoi550PseiCLAq4fnc+0SqDSqbpwM9Zlf2mGxcX2ldqgM52ZeE1DmOU7srxgu7D3aZ9IBw=="
 }
