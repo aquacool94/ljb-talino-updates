@@ -1,6 +1,6 @@
 # LJB Talino Privacy Statement
 
-Last updated: October 17, 2026
+Last updated: October 18, 2026
 
 This statement describes information handled by the LJB Talino Windows application, its public download and update repository, its online activation service, and email support.
 
@@ -25,6 +25,8 @@ When teachers use projection, printing, exports, backups, or local-network phone
 
 **Activation and trials:** The activation service processes a device identifier and the activation key submitted by the user, or a device-bound trial request. Licensing records include a buyer name when supplied for a license, a license identifier, a hash of the key or trial identifier, the assigned device identifier, creation and expiry dates, and activation or disabled status. These records support license verification, subscription access, and prevention of repeated trials or unauthorized license reuse.
 
+**Trial registration:** Updated app versions ask for your full name, email address, and optional school name before starting a free trial. These fields and the computer's device code are sent only when you submit the registration form and agree to its notice. The service records the notice version and agreement time. Sir Louie uses this information to identify trials and assist with activation, licensing, and subscription requests; registration does not start a paid subscription or sign you up for marketing. Email and school details are self-reported and are not verified. Registration details are visible in the owner-only activation manager and may also identify paid licenses activated on the same computer. Existing trial users can supply these details without restarting or extending their original trial. Closing the form does not shorten an existing trial. No student records or classroom database are included in the registration request.
+
 **Updates and downloads:** The updater requests public version information and installer files from GitHub. These requests do not include learner records, teacher classroom profiles, or license keys. An available update is installed after the user chooses Update now; automatic checking can be disabled in Settings. Hosting providers receive connection information, such as an IP address and request headers, when an online request is made.
 
 **Email support:** If you contact ljbtalino@gmail.com, the support mailbox receives your email address, sender name, message, and any attachments you send. This information is used to respond to the request. Please use anonymized examples where possible and avoid sending unnecessary learner information.
@@ -43,7 +45,7 @@ These online services are separate from the teacher's local classroom database. 
 
 **Local classroom records:** Teachers and schools control their retention. Uninstalling LJB Talino preserves its separate data folder. Deleted records may remain in the Recycle Bin, backups, exports, or copies made by the user. Removing an item from the active list does not necessarily remove every copy.
 
-**Licensing records:** Activation records do not currently have an automatic expiry-based deletion schedule. Device and trial records may remain after a trial or subscription expires to support licensing and prevent repeated trial claims. Contact the developer to request a review, correction, or deletion of information held by the activation service; some information may still be needed for licensing, security, or applicable obligations.
+**Licensing records:** Registration details (including name, email, optional school, notice version, and agreement time) are retained with the device-based licensing records. Activation records do not currently have an automatic expiry-based deletion schedule. Device and trial records may remain after a trial or subscription expires to support licensing and prevent repeated trial claims. Contact the developer to request a review, correction, or deletion of information held by the activation service; some information may still be needed for licensing, security, or applicable obligations.
 
 **Support correspondence:** Messages and attachments remain in the support mailbox until deleted. Contact the support address to request removal or clarification about information retained there. Hosting providers apply their own retention policies to their service records.
 
