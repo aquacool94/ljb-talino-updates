@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.39-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.39-beta/LJB-Talino-Setup-0.1.39-beta.exe",
-    "sha256": "084b68c129706f1f07a6182120437162732f6b7fe96ad2ada0acf2b5f0ea0e25",
-    "size": 81732348,
-    "notes": "The spinning recitation wheel now automatically fits the projection window height, keeping the whole wheel visible without a vertical scrollbar.",
-    "published_at": "2026-10-17T14:20:02.996434+00:00"
+    "version": "0.1.40-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.40-beta/LJB-Talino-Setup-0.1.40-beta.exe",
+    "sha256": "6c79db422ff360bb851f3780b799b4d5602a2f56796d925642a786768fb0509f",
+    "size": 81743633,
+    "notes": "Adds a 2026-2027 school calendar with sourced DepEd reference dates, teacher-created events, Today and Upcoming on Home, and in-app reminders with dismissal or a 15-minute snooze. Improves shutdown during startup.",
+    "published_at": "2026-10-18T11:09:27.757044+00:00"
   },
-  "signature": "cBnRQA3OLA9jDsRcXORnwAh6RfDQmzyyJfIi12WbLeugIAoXiiByK+/3ECUwvWnAxEOCmwiNFOhl5JF64Ui9BQ=="
+  "signature": "cYm+c9MbP8bL/T74IFYq58QdAoHY2gyfjWmJDS9WVwiDa44IJRWv9sXdWaJWPNYX9FoV0YvP/os/y9Zj8lTsDA=="
 }
