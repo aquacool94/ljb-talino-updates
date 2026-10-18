@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.43-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.43-beta/LJB-Talino-Setup-0.1.43-beta.exe",
-    "sha256": "4b50c354a8f1bf03ef7ec609f0813eaf29903d4de49f4a2399e6d1911b939ccd",
-    "size": 81749934,
-    "notes": "Adds free-trial registration with teacher name, email, optional school name, and a privacy notice with explicit agreement. Existing trial users can add their details without restarting or extending the trial. Updates the owner activation manager with contact details and search by name, email, school or device code.",
-    "published_at": "2026-10-18T13:49:43.745045+00:00"
+    "version": "0.1.44-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.44-beta/LJB-Talino-Setup-0.1.44-beta.exe",
+    "sha256": "06d4717c82b235ce68e7037cbe394fb63147fcd1661687185c54a2f5bf768547",
+    "size": 81749795,
+    "notes": "Replaces the Question Bank browser prompt with a matching Create question set dialog. Includes a labeled name field, example, inline errors and duplicate-submission protection. The dialog stays centered over the main app and fits smaller windows.",
+    "published_at": "2026-10-18T22:38:05.323747+00:00"
   },
-  "signature": "iKM+2F+SHVD2gqirMEtzfjYzEoOzAINOtpYIAHFvCIlstVAXB8NIPLdS2oMWKoDZGXZQnbTdOz1IAt5vxoUGAg=="
+  "signature": "WS0+hxPjDEP+DwnhcP4uf913g8aXeC4M/8Ai8PlvipyMqzyhv29qaC6mpcKeJg2iJsNR9XR5UrgRKQVpgBPDCw=="
 }
