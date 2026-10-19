@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.47-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.47-beta/LJB-Talino-Setup-0.1.47-beta.exe",
-    "sha256": "df5fa33edf83667f0da0e1d32ff5a11fc798bd97c036126cf639df3e792e082b",
-    "size": 81752929,
-    "notes": "Attendance lists can be grouped male first or female first, or sorted alphabetically, while preserving marks and remarks. Camera scanning now follows the detected sheet and accepts slight tilt without requiring exact placement in fixed boxes, with printed marker-grid validation before capture.",
-    "published_at": "2026-10-19T12:30:36.539763+00:00"
+    "version": "0.1.48-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.48-beta/LJB-Talino-Setup-0.1.48-beta.exe",
+    "sha256": "2bc181902874d1d241ab624474be468b5976f827de76da229ae3c60a035e9214",
+    "size": 81779274,
+    "notes": "New Crossword and Red Light, Green Light recitation games; optional Question Bank questions for the doll reveal; automatic answer review after scoring; fullscreen exam timer with preserved presentation focus; redesigned group projection with readable paged cards and teacher controls; compact group setup and corrected wheel pointer circle alignment.",
+    "published_at": "2026-10-19T17:38:50.057365+00:00"
   },
-  "signature": "Y8suhEiUfDfushbJ0zGa6pHtw7GU73HYS/89xJgVGYMJgJkPAistLR8TXC1qCkulaheDRJQunbD9IgZR7a9/BA=="
+  "signature": "NTyKGykwglSyJDtqZAPgPdveCFe7B0JFa5zjqTOtQRa5JqaL0HU9WZwQ8N0HQinoXluQ0EVDjZdjFo1RPlgYCQ=="
 }
