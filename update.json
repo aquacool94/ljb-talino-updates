@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.44-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.44-beta/LJB-Talino-Setup-0.1.44-beta.exe",
-    "sha256": "06d4717c82b235ce68e7037cbe394fb63147fcd1661687185c54a2f5bf768547",
-    "size": 81749795,
-    "notes": "Replaces the Question Bank browser prompt with a matching Create question set dialog. Includes a labeled name field, example, inline errors and duplicate-submission protection. The dialog stays centered over the main app and fits smaller windows.",
-    "published_at": "2026-10-18T22:38:05.323747+00:00"
+    "version": "0.1.45-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.45-beta/LJB-Talino-Setup-0.1.45-beta.exe",
+    "sha256": "c5b12cb4698779d6f183b057346360be91e503d593c8669408954c359c58301e",
+    "size": 81751858,
+    "notes": "Shows scanned learners against the registered section total for each exam, such as 38 / 40, including recent exams on Home. Improves phone scanning with a shorter camera preview, lower adaptive guides and the full uncropped camera image. Printed worksheets and answer-reading logic are unchanged.",
+    "published_at": "2026-10-19T08:32:41.189291+00:00"
   },
-  "signature": "WS0+hxPjDEP+DwnhcP4uf913g8aXeC4M/8Ai8PlvipyMqzyhv29qaC6mpcKeJg2iJsNR9XR5UrgRKQVpgBPDCw=="
+  "signature": "JHknDKvGDpKKWdfsOsWXjKZ99+mAj2vH2XACjcgGqKFOccD3QI63CjQKvGllOu53HM45ycFbgr/VpyN7UEG5AA=="
 }
