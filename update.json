@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.46-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.46-beta/LJB-Talino-Setup-0.1.46-beta.exe",
-    "sha256": "7a72625980ed4cdd7aaf6cae9c43a3fce7fb7be0dc4b82ba2eeeef8386675424",
-    "size": 81751555,
-    "notes": "Restores the previous camera scanning view, fixed corner guide boxes, framing and automatic capture behavior from 0.1.44-beta. Keeps the scanned / registered learner counts, such as 38 / 40, and all other recent improvements.",
-    "published_at": "2026-10-19T11:42:02.975166+00:00"
+    "version": "0.1.47-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.47-beta/LJB-Talino-Setup-0.1.47-beta.exe",
+    "sha256": "df5fa33edf83667f0da0e1d32ff5a11fc798bd97c036126cf639df3e792e082b",
+    "size": 81752929,
+    "notes": "Attendance lists can be grouped male first or female first, or sorted alphabetically, while preserving marks and remarks. Camera scanning now follows the detected sheet and accepts slight tilt without requiring exact placement in fixed boxes, with printed marker-grid validation before capture.",
+    "published_at": "2026-10-19T12:30:36.539763+00:00"
   },
-  "signature": "SUSnc56/jQMh/YB8eirVRZ7CwSOwY8i67DvXEW6eNYMmv7nQbEzcxt+gesmkD8ZCrDRqzCnoaj2EEojSfCNXBw=="
+  "signature": "Y8suhEiUfDfushbJ0zGa6pHtw7GU73HYS/89xJgVGYMJgJkPAistLR8TXC1qCkulaheDRJQunbD9IgZR7a9/BA=="
 }
