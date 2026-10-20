@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.49-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.49-beta/LJB-Talino-Setup-0.1.49-beta.exe",
-    "sha256": "b04db329a047aa5dbef627292cefefad6c38153d18842c79ee9f4f08f8905865",
-    "size": 81779814,
-    "notes": "Simplified group projection to one group per screen with full-width member lists and readable name columns. Added optional automatic Classroom Display: opens on Present or Late, waits for all saved attendance marks and final animations, shows the final count, then closes. Corrections cancel automatic closing; manual display controls remain available.",
-    "published_at": "2026-10-20T02:53:29.783235+00:00"
+    "version": "0.1.50-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.50-beta/LJB-Talino-Setup-0.1.50-beta.exe",
+    "sha256": "daf4460c13fb5e611d9b1d5a46e4563c5585c8992b4cb95076135ec9974d0560",
+    "size": 81781238,
+    "notes": "Monthly Attendance now keeps student IDs and learner names visible while scrolling sideways through later dates. Improved frozen-column backgrounds and narrow-screen sizing for easier manual attendance recording.",
+    "published_at": "2026-10-20T07:57:59.185109+00:00"
   },
-  "signature": "apk0gPKtsbf6XX0+h0DffYapQqyZjN3B4g0mIo2Jy4m+A0YcJfB/ZRgHGbhFDNgysRemIgNHqLOsKqA/FE5dCQ=="
+  "signature": "S7THQDhPGeSZb1vao2AJfdCGYA6Ua0X8JPaCyGbQ1JlH9Zy/PcA+iGwf6vK4yl5gOeoomH/ybBdRHXtVHrZLCw=="
 }
