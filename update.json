@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.51-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.51-beta/LJB-Talino-Setup-0.1.51-beta.exe",
-    "sha256": "3c27f2c1052f66611468d630603a082cc856ede6f976d5892a45e368382d0ad6",
-    "size": 81780587,
-    "notes": "Monthly Attendance and its printed summary now list male learners first, then female learners, alphabetically within each group. Learners without a saved sex appear last. Saved attendance marks and totals remain unchanged.",
-    "published_at": "2026-10-20T11:06:16.562748+00:00"
+    "version": "0.1.52-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.52-beta/LJB-Talino-Setup-0.1.52-beta.exe",
+    "sha256": "0a0a8161479d779f352514bda61c9da9c65c476e59875f950bfe697f0200e440",
+    "size": 81785320,
+    "notes": "Added a five-step welcome guide covering teacher details, trial or activation, sections and learners, class schedules with a weekly preview, and a first classroom activity. Setup progress is saved, with a Home checklist and Settings shortcut to resume. Existing classrooms are not interrupted by an automatic welcome popup. Includes duplicate and conflicting schedule protection.",
+    "published_at": "2026-10-20T12:16:59.321644+00:00"
   },
-  "signature": "3Rv/86o0lHK5Vc4xaSb5XAEI6Lz0apueqj4w2mxyWpebUrYcTm+wH5Qf7WqGQ8ImB7u5pJ/nJPh+05VBXLA7CA=="
+  "signature": "GChwoVAD0Snj0ehAjjDNnYcw9zAihbiI7GjgJj+wD4Uw0vjL7GK1OiuekC26AJLdoZYlekDhlonhRlhQ7WuoCA=="
 }
