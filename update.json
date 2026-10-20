@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.52-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.52-beta/LJB-Talino-Setup-0.1.52-beta.exe",
-    "sha256": "0a0a8161479d779f352514bda61c9da9c65c476e59875f950bfe697f0200e440",
-    "size": 81785320,
-    "notes": "Added a five-step welcome guide covering teacher details, trial or activation, sections and learners, class schedules with a weekly preview, and a first classroom activity. Setup progress is saved, with a Home checklist and Settings shortcut to resume. Existing classrooms are not interrupted by an automatic welcome popup. Includes duplicate and conflicting schedule protection.",
-    "published_at": "2026-10-20T12:16:59.321644+00:00"
+    "version": "0.1.53-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.53-beta/LJB-Talino-Setup-0.1.53-beta.exe",
+    "sha256": "8b9de1c1f676df18a86888583d1710dc2359b518d027059fba9f99b578d82767",
+    "size": 81784528,
+    "notes": "Moved the getting started guide shortcut into the top-right of the Settings heading as a compact Setup guide button. Removed the extra row above the Settings tabs and improved narrow-screen placement.",
+    "published_at": "2026-10-20T12:41:34.540825+00:00"
   },
-  "signature": "GChwoVAD0Snj0ehAjjDNnYcw9zAihbiI7GjgJj+wD4Uw0vjL7GK1OiuekC26AJLdoZYlekDhlonhRlhQ7WuoCA=="
+  "signature": "NvXXLWo9Te64Q3DvaAqBfoIdQ6oaRggaaMllay6Hf31dv44wWOm/I+w/ZEBebmMxvk/j4DVR/wpFAeRJs6ckDA=="
 }
