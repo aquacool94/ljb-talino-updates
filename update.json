@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.50-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.50-beta/LJB-Talino-Setup-0.1.50-beta.exe",
-    "sha256": "daf4460c13fb5e611d9b1d5a46e4563c5585c8992b4cb95076135ec9974d0560",
-    "size": 81781238,
-    "notes": "Monthly Attendance now keeps student IDs and learner names visible while scrolling sideways through later dates. Improved frozen-column backgrounds and narrow-screen sizing for easier manual attendance recording.",
-    "published_at": "2026-10-20T07:57:59.185109+00:00"
+    "version": "0.1.51-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.51-beta/LJB-Talino-Setup-0.1.51-beta.exe",
+    "sha256": "3c27f2c1052f66611468d630603a082cc856ede6f976d5892a45e368382d0ad6",
+    "size": 81780587,
+    "notes": "Monthly Attendance and its printed summary now list male learners first, then female learners, alphabetically within each group. Learners without a saved sex appear last. Saved attendance marks and totals remain unchanged.",
+    "published_at": "2026-10-20T11:06:16.562748+00:00"
   },
-  "signature": "S7THQDhPGeSZb1vao2AJfdCGYA6Ua0X8JPaCyGbQ1JlH9Zy/PcA+iGwf6vK4yl5gOeoomH/ybBdRHXtVHrZLCw=="
+  "signature": "3Rv/86o0lHK5Vc4xaSb5XAEI6Lz0apueqj4w2mxyWpebUrYcTm+wH5Qf7WqGQ8ImB7u5pJ/nJPh+05VBXLA7CA=="
 }
