@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.48-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.48-beta/LJB-Talino-Setup-0.1.48-beta.exe",
-    "sha256": "2bc181902874d1d241ab624474be468b5976f827de76da229ae3c60a035e9214",
-    "size": 81779274,
-    "notes": "New Crossword and Red Light, Green Light recitation games; optional Question Bank questions for the doll reveal; automatic answer review after scoring; fullscreen exam timer with preserved presentation focus; redesigned group projection with readable paged cards and teacher controls; compact group setup and corrected wheel pointer circle alignment.",
-    "published_at": "2026-10-19T17:38:50.057365+00:00"
+    "version": "0.1.49-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.49-beta/LJB-Talino-Setup-0.1.49-beta.exe",
+    "sha256": "b04db329a047aa5dbef627292cefefad6c38153d18842c79ee9f4f08f8905865",
+    "size": 81779814,
+    "notes": "Simplified group projection to one group per screen with full-width member lists and readable name columns. Added optional automatic Classroom Display: opens on Present or Late, waits for all saved attendance marks and final animations, shows the final count, then closes. Corrections cancel automatic closing; manual display controls remain available.",
+    "published_at": "2026-10-20T02:53:29.783235+00:00"
   },
-  "signature": "NTyKGykwglSyJDtqZAPgPdveCFe7B0JFa5zjqTOtQRa5JqaL0HU9WZwQ8N0HQinoXluQ0EVDjZdjFo1RPlgYCQ=="
+  "signature": "apk0gPKtsbf6XX0+h0DffYapQqyZjN3B4g0mIo2Jy4m+A0YcJfB/ZRgHGbhFDNgysRemIgNHqLOsKqA/FE5dCQ=="
 }
