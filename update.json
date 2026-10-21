@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.55-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.55-beta/LJB-Talino-Setup-0.1.55-beta.exe",
-    "sha256": "8f7090c843089490a097e0beb3284b1565ecd8292976b4abdfa60be2f914f4bc",
-    "size": 81781559,
-    "notes": "Monthly attendance now shows each holiday or no-class reason reading upward in one merged column across learner rows, without repeated H/NC marks. Printed reports repeat the merged column on each page. Excluded dates remain visible and do not affect attendance totals.",
-    "published_at": "2026-10-21T06:18:28.281709+00:00"
+    "version": "0.1.56-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.56-beta/LJB-Talino-Setup-0.1.56-beta.exe",
+    "sha256": "680f4561f308e4f62c09d53eb4cacc4184a090f89c7899bcfc7ce7b975701dda",
+    "size": 81780945,
+    "notes": "Printed monthly attendance now includes MALE and FEMALE headings with learner counts, continued headings on later pages, and continuous numbering. Learners without a saved sex appear separately. Merged holiday columns stay aligned, and print spacing leaves room for signatures.",
+    "published_at": "2026-10-21T08:09:25.616997+00:00"
   },
-  "signature": "8XmcqZngqZzR7NLBy355MhaB/V3HUKYlbPzLtL0dC+SAPY4Zz8VpHrDUX2RvYXksX6sj3KWDdj3eIXl92NlfCQ=="
+  "signature": "bjN+PsVUMcHLQz9AtxYAuJgn7eWdpFIxKjEN/vsv8e3nXrh/1GvRV+dWEDyUnS20rwlPV3OUA76ory7NkbZSDQ=="
 }
