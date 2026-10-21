@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.54-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.54-beta/LJB-Talino-Setup-0.1.54-beta.exe",
-    "sha256": "3c30ae9a5383a1748545d09a55b931c69fd40be1bf36ec3b987797b308615d05",
-    "size": 81781838,
-    "notes": "Holiday and no-classes attendance with H/NC dates excluded from totals, upward-written holiday reasons, and calendar entries. Preserve saved marks when restoring a class day. Allow slower computers more time to close the app gracefully during updates.",
-    "published_at": "2026-10-21T04:11:53.804849+00:00"
+    "version": "0.1.55-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.55-beta/LJB-Talino-Setup-0.1.55-beta.exe",
+    "sha256": "8f7090c843089490a097e0beb3284b1565ecd8292976b4abdfa60be2f914f4bc",
+    "size": 81781559,
+    "notes": "Monthly attendance now shows each holiday or no-class reason reading upward in one merged column across learner rows, without repeated H/NC marks. Printed reports repeat the merged column on each page. Excluded dates remain visible and do not affect attendance totals.",
+    "published_at": "2026-10-21T06:18:28.281709+00:00"
   },
-  "signature": "Z/fU7Xd9ZGsbje4pU62BTp+FWJYH0F4m8CMAsenyxVXhZdp1Yn9Z1zijq9NDJovBFwL1OoXhZyZLn5xai12YCg=="
+  "signature": "8XmcqZngqZzR7NLBy355MhaB/V3HUKYlbPzLtL0dC+SAPY4Zz8VpHrDUX2RvYXksX6sj3KWDdj3eIXl92NlfCQ=="
 }
