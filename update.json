@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.53-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.53-beta/LJB-Talino-Setup-0.1.53-beta.exe",
-    "sha256": "8b9de1c1f676df18a86888583d1710dc2359b518d027059fba9f99b578d82767",
-    "size": 81784528,
-    "notes": "Moved the getting started guide shortcut into the top-right of the Settings heading as a compact Setup guide button. Removed the extra row above the Settings tabs and improved narrow-screen placement.",
-    "published_at": "2026-10-20T12:41:34.540825+00:00"
+    "version": "0.1.54-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.54-beta/LJB-Talino-Setup-0.1.54-beta.exe",
+    "sha256": "3c30ae9a5383a1748545d09a55b931c69fd40be1bf36ec3b987797b308615d05",
+    "size": 81781838,
+    "notes": "Holiday and no-classes attendance with H/NC dates excluded from totals, upward-written holiday reasons, and calendar entries. Preserve saved marks when restoring a class day. Allow slower computers more time to close the app gracefully during updates.",
+    "published_at": "2026-10-21T04:11:53.804849+00:00"
   },
-  "signature": "NvXXLWo9Te64Q3DvaAqBfoIdQ6oaRggaaMllay6Hf31dv44wWOm/I+w/ZEBebmMxvk/j4DVR/wpFAeRJs6ckDA=="
+  "signature": "Z/fU7Xd9ZGsbje4pU62BTp+FWJYH0F4m8CMAsenyxVXhZdp1Yn9Z1zijq9NDJovBFwL1OoXhZyZLn5xai12YCg=="
 }
