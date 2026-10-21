@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.57-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.57-beta/LJB-Talino-Setup-0.1.57-beta.exe",
-    "sha256": "a103326b9167fe29d51d3073de0ff68bacf8b4305443b3f9dad8e2ae1d00cc5e",
-    "size": 81823581,
-    "notes": "New Classroom Signals: a draggable, collapsible floating teacher bar for Quiet, Eyes here, and four voice levels. Student cues appear on the second display in compact or large mode, with optional chime and automatic or manual dismissal. Controls are designed to keep presentation focus.",
-    "published_at": "2026-10-21T13:32:41.157368+00:00"
+    "version": "0.1.58-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.58-beta/LJB-Talino-Setup-0.1.58-beta.exe",
+    "sha256": "1c5f6f017660f14c451c8b7488a4dbec6868497754d22e22a89f34a9b7e4b1ec",
+    "size": 81822024,
+    "notes": "Classroom Signals now uses a clearer, louder library-style bell ding with a stronger strike and a longer fading ring. Turn Sound on in the floating cue bar to hear it.",
+    "published_at": "2026-10-21T15:23:19.344606+00:00"
   },
-  "signature": "KsYkC/9H7C6kIOrTGEwfUQkq6hwC/NAn0afqTmHOG8UFzyFDIcIm3cureEALxf+8MSdoxvvQrgdkpL3Z64PwDg=="
+  "signature": "f3T1d5jw5FAKQ6t49WWnTnX3RZcyc/P75gbjhx7hYxlA4j1c3T4S5zpwio5AVs3w3PA/vautvyAu+v3TGRLSBQ=="
 }
