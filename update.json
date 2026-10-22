@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.64-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.64-beta/LJB-Talino-Setup-0.1.64-beta.exe",
-    "sha256": "8b8ca102222d009b3966af19342af8a92a1cc43f2af507c99705b42cf38b134a",
-    "size": 81877238,
-    "notes": "Redesigned Classroom Signals with schedule-based Wheel and Duck Race controls, activity Date added with newest/oldest sorting, and a new printed page for each section in the activity summary.",
-    "published_at": "2026-10-22T11:55:51.366882+00:00"
+    "version": "0.1.65-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.65-beta/LJB-Talino-Setup-0.1.65-beta.exe",
+    "sha256": "3f786188411c65bbcf681e2da3677884a22670d661ebd1a0de94dd58a072f586",
+    "size": 81880800,
+    "notes": "Refreshed teacher workspace with compact navigation, consistent controls and clearer activity counts; title A-Z/Z-A sorting; compact school report headers repeated on every printed page.",
+    "published_at": "2026-10-22T15:22:50.128931+00:00"
   },
-  "signature": "CR4FNQiiOctD0T+WrYesAf6usED/586iourSqPfTUNRs1Y8u/HHW9PAL51MPkEBpczkk8QBpI2lnDRnodWcFDg=="
+  "signature": "diyfOjeRsbL/JNx/wAyIH5ZOmVhMsPG3X8TqgWKazgxanv/dvPgao312r2Az9VdPo3og+veIf8dy6ydjue1rBQ=="
 }
