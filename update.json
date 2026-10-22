@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.61-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.61-beta/LJB-Talino-Setup-0.1.61-beta.exe",
-    "sha256": "881338d32b95ca106948a569de74fae6f1a838055265298fc0c2a86defb65b71",
-    "size": 81864801,
-    "notes": "Activities now uses compact rows with aligned sections, categories and score progress, tighter filters and less scrolling. Print summary shows activity titles only, separates sections with repeating headings, lists section names below the title, enlarges report logos, and adds the LJB Talino by Sir Louie logo at the bottom.",
-    "published_at": "2026-10-22T08:32:02.798729+00:00"
+    "version": "0.1.62-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.62-beta/LJB-Talino-Setup-0.1.62-beta.exe",
+    "sha256": "5023e4a675e157d530ed1418e1f928db561f747cf2a6e7e930b050c912708cb3",
+    "size": 81868354,
+    "notes": "Create a manually scored activity for multiple sections at once, or copy an existing activity to other sections with blank independent scores. Print summaries now use the title No Record on File, show the teacher name, use cleaner local Poppins fonts, and include a Prepared by block with the teacher name and role above the Talino footer logo.",
+    "published_at": "2026-10-22T09:26:36.748032+00:00"
   },
-  "signature": "1ONrsqI9FPJZnZezgBoVF7DQbIr4isqd/f4mF2G0epi5oifbQsk8gLggUtm5g5vzzAY1fYt8kYPxUtb1nA2ACw=="
+  "signature": "zm/m/UU4gEY8pUdqE1iSZNpobKAMVH06qzcFmt0yzOJ1iuWpk8RBb8Bg5K22QmjmbgunZU3c0OMhUsqSyKhtAQ=="
 }
