@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.63-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.63-beta/LJB-Talino-Setup-0.1.63-beta.exe",
-    "sha256": "ccac68975404eb04910ea54951028e2ac88d50a5fdc908a74c6a611a3cd43d31",
-    "size": 81868605,
-    "notes": "The No Record on File report now clearly identifies its subject or included subjects. Teacher identification and Report date appear on separate lines. The report date uses a complete month name, such as October 22, 2026, for easier reading.",
-    "published_at": "2026-10-22T09:48:39.202081+00:00"
+    "version": "0.1.64-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.64-beta/LJB-Talino-Setup-0.1.64-beta.exe",
+    "sha256": "8b8ca102222d009b3966af19342af8a92a1cc43f2af507c99705b42cf38b134a",
+    "size": 81877238,
+    "notes": "Redesigned Classroom Signals with schedule-based Wheel and Duck Race controls, activity Date added with newest/oldest sorting, and a new printed page for each section in the activity summary.",
+    "published_at": "2026-10-22T11:55:51.366882+00:00"
   },
-  "signature": "bQPTbIDBUhmnxpa1ZPzhRNzqcyqm3tHpVOTycZWATghkgZLVBSg3FBL/FzSzmMB3xtklK0V+BlJokWOpvBmxBw=="
+  "signature": "CR4FNQiiOctD0T+WrYesAf6usED/586iourSqPfTUNRs1Y8u/HHW9PAL51MPkEBpczkk8QBpI2lnDRnodWcFDg=="
 }
