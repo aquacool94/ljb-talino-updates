@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.62-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.62-beta/LJB-Talino-Setup-0.1.62-beta.exe",
-    "sha256": "5023e4a675e157d530ed1418e1f928db561f747cf2a6e7e930b050c912708cb3",
-    "size": 81868354,
-    "notes": "Create a manually scored activity for multiple sections at once, or copy an existing activity to other sections with blank independent scores. Print summaries now use the title No Record on File, show the teacher name, use cleaner local Poppins fonts, and include a Prepared by block with the teacher name and role above the Talino footer logo.",
-    "published_at": "2026-10-22T09:26:36.748032+00:00"
+    "version": "0.1.63-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.63-beta/LJB-Talino-Setup-0.1.63-beta.exe",
+    "sha256": "ccac68975404eb04910ea54951028e2ac88d50a5fdc908a74c6a611a3cd43d31",
+    "size": 81868605,
+    "notes": "The No Record on File report now clearly identifies its subject or included subjects. Teacher identification and Report date appear on separate lines. The report date uses a complete month name, such as October 22, 2026, for easier reading.",
+    "published_at": "2026-10-22T09:48:39.202081+00:00"
   },
-  "signature": "zm/m/UU4gEY8pUdqE1iSZNpobKAMVH06qzcFmt0yzOJ1iuWpk8RBb8Bg5K22QmjmbgunZU3c0OMhUsqSyKhtAQ=="
+  "signature": "bQPTbIDBUhmnxpa1ZPzhRNzqcyqm3tHpVOTycZWATghkgZLVBSg3FBL/FzSzmMB3xtklK0V+BlJokWOpvBmxBw=="
 }
