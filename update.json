@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.59-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.59-beta/LJB-Talino-Setup-0.1.59-beta.exe",
-    "sha256": "8e83e0b568f58ea17d0d5647f4075d2b7a2bc12dad02211b7a503d29b90b9df4",
-    "size": 81860779,
-    "notes": "Adds Activities score and submission records, learner follow-up slips, and unsubmitted-only summaries with school logos on 8.5 x 13 paper. Validates maximum scores and removes score spinner arrows. Word Scramble timers wait for the teacher, with optional 1-10 speed scoring and teacher confirmation.",
-    "published_at": "2026-10-22T04:02:43.501542+00:00"
+    "version": "0.1.60-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.60-beta/LJB-Talino-Setup-0.1.60-beta.exe",
+    "sha256": "c99ad0e32be51ce09f1786ec1bc8a27a7cf5fd53dea236f442ceabfe24e338e4",
+    "size": 81862393,
+    "notes": "Activities and new exams use the current term saved in Settings. Score entry groups males then females. Print summary lists blank scores as No record on file and excludes recorded scores, including zero, while keeping the existing score-entry screen. Printed summaries omit deadlines. Learner follow-up slips use only the LJB Talino logo, show term coverage and a clearer empty state, and use 8.5 x 13-inch paper.",
+    "published_at": "2026-10-22T07:51:54.083187+00:00"
   },
-  "signature": "8utRAvYCZcQqfc9ffd6PNJcWea740smk1rW6CmHsIpQ+s1RJeeiYfsa2Rpd4IaTYk2ngjAgYbhwb6z30TE3+CQ=="
+  "signature": "7MbZcOSaWvfhD5u/1SHyEg8kQxQf/dZSfG53OuRBSDdmmzdie8kBz+RKirl/o4oplIossdliWmXwqG4z3ZudDw=="
 }
