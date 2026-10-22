@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.65-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.65-beta/LJB-Talino-Setup-0.1.65-beta.exe",
-    "sha256": "3f786188411c65bbcf681e2da3677884a22670d661ebd1a0de94dd58a072f586",
-    "size": 81880800,
-    "notes": "Refreshed teacher workspace with compact navigation, consistent controls and clearer activity counts; title A-Z/Z-A sorting; compact school report headers repeated on every printed page.",
-    "published_at": "2026-10-22T15:22:50.128931+00:00"
+    "version": "0.1.66-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.66-beta/LJB-Talino-Setup-0.1.66-beta.exe",
+    "sha256": "fdac3a9d95abd9e6e87a0cdb003424f6c6ef0eec2116918ec224144de1ac438c",
+    "size": 81881754,
+    "notes": "Add a saved teacher signature for activities monitoring reports. Keep the signature with the final learner entry when printing. Reduce unnecessary saved-sheet image loading and repeated live-results redraws during scanning and score entry.",
+    "published_at": "2026-10-22T16:03:38.352151+00:00"
   },
-  "signature": "diyfOjeRsbL/JNx/wAyIH5ZOmVhMsPG3X8TqgWKazgxanv/dvPgao312r2Az9VdPo3og+veIf8dy6ydjue1rBQ=="
+  "signature": "6eImZ2LXpj2ZEhhABbgldj5ar+54dRlVOQUEeWceFELGxsab2KE0717tk72tJ/RQPFWb8tRMq4OytiHL7l2uBA=="
 }
