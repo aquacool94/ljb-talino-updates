@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.60-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.60-beta/LJB-Talino-Setup-0.1.60-beta.exe",
-    "sha256": "c99ad0e32be51ce09f1786ec1bc8a27a7cf5fd53dea236f442ceabfe24e338e4",
-    "size": 81862393,
-    "notes": "Activities and new exams use the current term saved in Settings. Score entry groups males then females. Print summary lists blank scores as No record on file and excludes recorded scores, including zero, while keeping the existing score-entry screen. Printed summaries omit deadlines. Learner follow-up slips use only the LJB Talino logo, show term coverage and a clearer empty state, and use 8.5 x 13-inch paper.",
-    "published_at": "2026-10-22T07:51:54.083187+00:00"
+    "version": "0.1.61-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.61-beta/LJB-Talino-Setup-0.1.61-beta.exe",
+    "sha256": "881338d32b95ca106948a569de74fae6f1a838055265298fc0c2a86defb65b71",
+    "size": 81864801,
+    "notes": "Activities now uses compact rows with aligned sections, categories and score progress, tighter filters and less scrolling. Print summary shows activity titles only, separates sections with repeating headings, lists section names below the title, enlarges report logos, and adds the LJB Talino by Sir Louie logo at the bottom.",
+    "published_at": "2026-10-22T08:32:02.798729+00:00"
   },
-  "signature": "7MbZcOSaWvfhD5u/1SHyEg8kQxQf/dZSfG53OuRBSDdmmzdie8kBz+RKirl/o4oplIossdliWmXwqG4z3ZudDw=="
+  "signature": "1ONrsqI9FPJZnZezgBoVF7DQbIr4isqd/f4mF2G0epi5oifbQsk8gLggUtm5g5vzzAY1fYt8kYPxUtb1nA2ACw=="
 }
