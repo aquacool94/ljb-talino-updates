@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.71-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.71-beta/LJB-Talino-Setup-0.1.71-beta.exe",
-    "sha256": "ecbd15cfed18ab1c76ab417d3effdbb1e852f047ca82cb9ee396fb0c63ba72e3",
-    "size": 81942921,
-    "notes": "Maintenance update: organized Attendance and Activities code, with verified attendance saves, score autosave, classroom displays and printed activity summaries. Existing classroom records and workflows are preserved.",
-    "published_at": "2026-10-23T22:27:55.282792+00:00"
+    "version": "0.1.72-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.72-beta/LJB-Talino-Setup-0.1.72-beta.exe",
+    "sha256": "2b7c56cd70ed080a52c1a20d94d5b184d832c177c037cd01f77a79ed122ca906",
+    "size": 81944525,
+    "notes": "Simpler Home with current/next class, factual attention items, compact classroom tools and a quiet teacher quotation. Clear Open class and Return to recitation actions, with a separate attendance indicator. Compact prayer controls with preserved private selection, attendance eligibility, saved backgrounds and music. Existing classroom records and settings are preserved.",
+    "published_at": "2026-10-23T23:28:30.107147+00:00"
   },
-  "signature": "K/p913fE1DSzPBIDwY40543Cmw7yX6/e0B7pLLb8xSbePpncRnvkn7tZJLEMaiGhs5wV1TP6TwjNVk6xL5YJDw=="
+  "signature": "ka7mw6IxKdgrBBwYwiapOjKVrl6PpA1fgRgna9pZ2IIg5Wt0UZnsliCrjIcWfQAecrCtCwqjqnIVIPFEca3ZCw=="
 }
