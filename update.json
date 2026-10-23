@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.66-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.66-beta/LJB-Talino-Setup-0.1.66-beta.exe",
-    "sha256": "fdac3a9d95abd9e6e87a0cdb003424f6c6ef0eec2116918ec224144de1ac438c",
-    "size": 81881754,
-    "notes": "Add a saved teacher signature for activities monitoring reports. Keep the signature with the final learner entry when printing. Reduce unnecessary saved-sheet image loading and repeated live-results redraws during scanning and score entry.",
-    "published_at": "2026-10-22T16:03:38.352151+00:00"
+    "version": "0.1.67-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.67-beta/LJB-Talino-Setup-0.1.67-beta.exe",
+    "sha256": "1d48a30cc90d73720719b8f23575986758f3d0b083df299fcfc038680118035f",
+    "size": 81876402,
+    "notes": "Shared recitation turns across games and teaching days; independent Second Chance steal rotation with chained attempts; optional live quiz saved-score display on the second screen.",
+    "published_at": "2026-10-23T02:34:22.017911+00:00"
   },
-  "signature": "6eImZ2LXpj2ZEhhABbgldj5ar+54dRlVOQUEeWceFELGxsab2KE0717tk72tJ/RQPFWb8tRMq4OytiHL7l2uBA=="
+  "signature": "srKjVpP7V+u8Y3F1zE/SiB8G40lZkAXGqWfJaIOsaRrdDcOkIFYwWQW6l6aS5/3x6Nhv1GSHwdnqdJVjdQaNBg=="
 }
