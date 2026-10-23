@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.69-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.69-beta/LJB-Talino-Setup-0.1.69-beta.exe",
-    "sha256": "7bfa853314c9fd6752ceac61c29b8db9703e2bb461d22c6148031c9b85280fdf",
-    "size": 81937563,
-    "notes": "Redesigned Home and polished workspace with grouped collapsible navigation, current-class indicator, mobile menu and clearer save feedback. Adds opening and closing prayer with private attendance-aware leaders, remembered backgrounds and music, a saved classroom music library, absent-today score-entry highlights, and automatic score saving with confirmed live display.",
-    "published_at": "2026-10-23T12:31:37.448748+00:00"
+    "version": "0.1.70-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.70-beta/LJB-Talino-Setup-0.1.70-beta.exe",
+    "sha256": "1f59a1f9f9f0855a0da5dce5ab362b8f0edfa3478e7b3ed32f3905dae430cbc5",
+    "size": 81939632,
+    "notes": "A more compact Home with quick access to teaching tools and prayers; clearer sidebar labels and consistent prayer-control fonts; six saved attendance animation choices, faster arrivals, and shorter walking queues.",
+    "published_at": "2026-10-23T14:59:47.378466+00:00"
   },
-  "signature": "vwCjfOapvUr9rKaaYktBtn4tbIzj79e733yKk6wntF73gpjuxTAyYZhl60FQwBlyd+WIAleDsA2gZUgHmaZnCA=="
+  "signature": "QadBeFueVMzxZHvTXdLLqvfCTQ0zo4yE9UVJGI6XLmEDoLofrIFHZ33Q0tE0lwiTAl6X4UW5pjmVDFP3hShWBg=="
 }
