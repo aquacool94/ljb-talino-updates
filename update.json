@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.67-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.67-beta/LJB-Talino-Setup-0.1.67-beta.exe",
-    "sha256": "1d48a30cc90d73720719b8f23575986758f3d0b083df299fcfc038680118035f",
-    "size": 81876402,
-    "notes": "Shared recitation turns across games and teaching days; independent Second Chance steal rotation with chained attempts; optional live quiz saved-score display on the second screen.",
-    "published_at": "2026-10-23T02:34:22.017911+00:00"
+    "version": "0.1.68-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.68-beta/LJB-Talino-Setup-0.1.68-beta.exe",
+    "sha256": "7f51496c23fe0899c645e55404264800f642385c6da7d1039ab8dfa5ebc04cb7",
+    "size": 81879020,
+    "notes": "Private correct answers on the teacher recitation dashboard; automatic 10-second steal attempts with final-five countdown sounds; floating Classroom Signals minimizes and restores at the bottom-right above the taskbar.",
+    "published_at": "2026-10-23T06:04:56.263158+00:00"
   },
-  "signature": "srKjVpP7V+u8Y3F1zE/SiB8G40lZkAXGqWfJaIOsaRrdDcOkIFYwWQW6l6aS5/3x6Nhv1GSHwdnqdJVjdQaNBg=="
+  "signature": "9NQnAdvS/tIkQgscqvGH4f/ApAXqr7WGlAA1LNjRuzmc044Q5ZN7sruVGOWBr25zaBsEGCzL07nD8khyRLSyBw=="
 }
