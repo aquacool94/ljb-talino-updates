@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.68-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.68-beta/LJB-Talino-Setup-0.1.68-beta.exe",
-    "sha256": "7f51496c23fe0899c645e55404264800f642385c6da7d1039ab8dfa5ebc04cb7",
-    "size": 81879020,
-    "notes": "Private correct answers on the teacher recitation dashboard; automatic 10-second steal attempts with final-five countdown sounds; floating Classroom Signals minimizes and restores at the bottom-right above the taskbar.",
-    "published_at": "2026-10-23T06:04:56.263158+00:00"
+    "version": "0.1.69-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.69-beta/LJB-Talino-Setup-0.1.69-beta.exe",
+    "sha256": "7bfa853314c9fd6752ceac61c29b8db9703e2bb461d22c6148031c9b85280fdf",
+    "size": 81937563,
+    "notes": "Redesigned Home and polished workspace with grouped collapsible navigation, current-class indicator, mobile menu and clearer save feedback. Adds opening and closing prayer with private attendance-aware leaders, remembered backgrounds and music, a saved classroom music library, absent-today score-entry highlights, and automatic score saving with confirmed live display.",
+    "published_at": "2026-10-23T12:31:37.448748+00:00"
   },
-  "signature": "9NQnAdvS/tIkQgscqvGH4f/ApAXqr7WGlAA1LNjRuzmc044Q5ZN7sruVGOWBr25zaBsEGCzL07nD8khyRLSyBw=="
+  "signature": "vwCjfOapvUr9rKaaYktBtn4tbIzj79e733yKk6wntF73gpjuxTAyYZhl60FQwBlyd+WIAleDsA2gZUgHmaZnCA=="
 }
