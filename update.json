@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.74-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.74-beta/LJB-Talino-Setup-0.1.74-beta.exe",
-    "sha256": "6a30dcb2400e633f2a9d679fd3df22346581ac06c549332f01fb2d299d3c2b1f",
-    "size": 81945853,
-    "notes": "License status is now visible beside the LJB Talino logo, with a static teacher photo and name on the right. Profile, activation and trial controls remain in Settings. Removed the duplicate prayer shortcuts from Recitation; Opening and Closing prayer remain on Home. Existing recitation rules, licensing behavior, classroom records and settings are preserved.",
-    "published_at": "2026-10-24T00:41:36.069788+00:00"
+    "version": "0.1.75-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.75-beta/LJB-Talino-Setup-0.1.75-beta.exe",
+    "sha256": "42c4f0ee511b4519f121cd78b2fcbf3d6695fe427a186c5699620d24143b022f",
+    "size": 81950066,
+    "notes": "Save multiple prayer background photos once; Talino privately previews one photo per prayer and uses every photo before repeating. Attendance now has compact controls, with session times, display preferences and holidays in collapsible sections. Removed the shared-header class status badge. Classroom records, activation, music settings and existing recitation and attendance rules are preserved.",
+    "published_at": "2026-10-24T01:25:09.066492+00:00"
   },
-  "signature": "uAxy3BtxdEcHi4QsYN39S31oXiyED16WJpBgdmwDRCzzx7DSOi/64IUtYYYu517sZdZ0CdnPRVRAfIDAuVWrAg=="
+  "signature": "EDZTu1+iBSdOK5P2etkMTKLsHJOZEXMFDArOYFihfqlrPD1U13kSP2ZGN7zmJnx0exrNrXgkwFvIwunhSM7uCA=="
 }
