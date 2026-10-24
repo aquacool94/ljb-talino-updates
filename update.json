@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.78-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.78-beta/LJB-Talino-Setup-0.1.78-beta.exe",
-    "sha256": "a5d8941dbd3793466c3b8bb016e3f774216f231728e84e73aa509aa190fe4b48",
-    "size": 81956680,
-    "notes": "Learner profiles now show all scored activities and exams with subject, term and status filters, including blank scores marked No record on file. Prayer projection has larger, bolder text, a darker reading panel and shorter pages. Teacher prayer controls show a private script preview and the same page as the TV, with synchronized Previous and Next controls and a compact presentation view.",
-    "published_at": "2026-10-24T11:59:57.451270+00:00"
+    "version": "0.1.79-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.79-beta/LJB-Talino-Setup-0.1.79-beta.exe",
+    "sha256": "8ec921ad00fe20b6ede27d1bd84dc7a2209d1212fc05a3a379897fe22c368420",
+    "size": 81953478,
+    "notes": "Learner profiles now have one Term selector for activities, exam scores and dated history, with All terms and optional Custom dates. Set term start/end dates once in Settings, School and reports. Attendance no longer shows another term when dates are missing. Removed the experimental name-hiding feature. Existing classroom records and locally prepared demo records are preserved.",
+    "published_at": "2026-10-24T13:25:20.081195+00:00"
   },
-  "signature": "fJhhxREIk4gDtQVxRVQoBT/RY9ubSxX4Z3sIS2QtM3S5mlj3/yHzHb1myqNtlJGewzzZlYOsUx+ka8xE9pq8Bw=="
+  "signature": "BFDmGDN2I+RUUOuqVBbpi/8tl4ErsLq5ekcsIbSwKIFKCwxG+9znDL053F7fRAkHr1GnEAhoTDGgJzDfUoodDA=="
 }
