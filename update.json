@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.76-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.76-beta/LJB-Talino-Setup-0.1.76-beta.exe",
-    "sha256": "0f8b16d8c7fad49cf23146993263deb58736a9fc5103bb965061f1cedaa301f0",
-    "size": 81952814,
-    "notes": "Home now uses the same roomy branding bar as the other tabs. Groups has more compact setup, save/search controls and member cards. Recitation shows the selected game setup directly above Start, with sound and volume visible and occasional options in one Settings window. Fixed the scanner template editor diagnostics. Existing classroom records, activation, shared calling cycle, attendance filters, scoring and steal rules are preserved.",
-    "published_at": "2026-10-24T05:46:05.066475+00:00"
+    "version": "0.1.77-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.77-beta/LJB-Talino-Setup-0.1.77-beta.exe",
+    "sha256": "9fe278ec9e61307a64f6c8e9c651330bf7009cb7633a3a9a381d99cb2c133e6d",
+    "size": 81954919,
+    "notes": "Class Games and Activity Records now have clearer names. Added Spell Fix with Question Bank and CSV authoring, a side-by-side teacher preview, raised letter tiles, one-letter reveal/undo and a per-letter bell. Completed shared calling cycles restart automatically on the next selection. Word Scramble preserves spaces and word order. Added a saved Prayer Bank with CSV import, student-led and class chorus modes, and readable paged prayer text. Existing attendance filters, scores, separate steal rotation, saved backgrounds and music are preserved.",
+    "published_at": "2026-10-24T09:28:11.589264+00:00"
   },
-  "signature": "QMG3jPoKDqVtOYO47j8JGZZgS2UB7KBNdNCT4Z14x0yjiBte41N1CRo3PeJ/L8tHQwTaPZYtO+/u0dNiOh+4BQ=="
+  "signature": "NJmYizc+9K22lFzFPG8dVdJbLCkWmFMrv93nBGQiDJy3dL0hvTlTWJnN5tH8UWuvpfVTRGWemROaeVR+PpwVDw=="
 }
