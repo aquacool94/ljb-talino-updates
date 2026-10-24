@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.72-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.72-beta/LJB-Talino-Setup-0.1.72-beta.exe",
-    "sha256": "2b7c56cd70ed080a52c1a20d94d5b184d832c177c037cd01f77a79ed122ca906",
-    "size": 81944525,
-    "notes": "Simpler Home with current/next class, factual attention items, compact classroom tools and a quiet teacher quotation. Clear Open class and Return to recitation actions, with a separate attendance indicator. Compact prayer controls with preserved private selection, attendance eligibility, saved backgrounds and music. Existing classroom records and settings are preserved.",
-    "published_at": "2026-10-23T23:28:30.107147+00:00"
+    "version": "0.1.73-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.73-beta/LJB-Talino-Setup-0.1.73-beta.exe",
+    "sha256": "499eee5b8bc2b7faba02bba2d14c345289057f9742f0b5231a527c42f515d71b",
+    "size": 81944188,
+    "notes": "Home now includes a compact school calendar with custom events, upcoming dates and reminders, plus Opening and Closing prayer shortcuts. The header displays the saved teacher photo and name, with profile and license options available from the badge. Existing classroom records, settings and prayer preferences are preserved.",
+    "published_at": "2026-10-24T00:03:54.206514+00:00"
   },
-  "signature": "ka7mw6IxKdgrBBwYwiapOjKVrl6PpA1fgRgna9pZ2IIg5Wt0UZnsliCrjIcWfQAecrCtCwqjqnIVIPFEca3ZCw=="
+  "signature": "ykWw+sfvvy/ClE1lD6nPnJ7Q6Ns9wacEfdoP4SaQ+ST+gspHdUgIKAwanzfEAQ4wsuP/GufckbgJXrboNb1aCw=="
 }
