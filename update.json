@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.75-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.75-beta/LJB-Talino-Setup-0.1.75-beta.exe",
-    "sha256": "42c4f0ee511b4519f121cd78b2fcbf3d6695fe427a186c5699620d24143b022f",
-    "size": 81950066,
-    "notes": "Save multiple prayer background photos once; Talino privately previews one photo per prayer and uses every photo before repeating. Attendance now has compact controls, with session times, display preferences and holidays in collapsible sections. Removed the shared-header class status badge. Classroom records, activation, music settings and existing recitation and attendance rules are preserved.",
-    "published_at": "2026-10-24T01:25:09.066492+00:00"
+    "version": "0.1.76-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.76-beta/LJB-Talino-Setup-0.1.76-beta.exe",
+    "sha256": "0f8b16d8c7fad49cf23146993263deb58736a9fc5103bb965061f1cedaa301f0",
+    "size": 81952814,
+    "notes": "Home now uses the same roomy branding bar as the other tabs. Groups has more compact setup, save/search controls and member cards. Recitation shows the selected game setup directly above Start, with sound and volume visible and occasional options in one Settings window. Fixed the scanner template editor diagnostics. Existing classroom records, activation, shared calling cycle, attendance filters, scoring and steal rules are preserved.",
+    "published_at": "2026-10-24T05:46:05.066475+00:00"
   },
-  "signature": "EDZTu1+iBSdOK5P2etkMTKLsHJOZEXMFDArOYFihfqlrPD1U13kSP2ZGN7zmJnx0exrNrXgkwFvIwunhSM7uCA=="
+  "signature": "QMG3jPoKDqVtOYO47j8JGZZgS2UB7KBNdNCT4Z14x0yjiBte41N1CRo3PeJ/L8tHQwTaPZYtO+/u0dNiOh+4BQ=="
 }
