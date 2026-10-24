@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.77-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.77-beta/LJB-Talino-Setup-0.1.77-beta.exe",
-    "sha256": "9fe278ec9e61307a64f6c8e9c651330bf7009cb7633a3a9a381d99cb2c133e6d",
-    "size": 81954919,
-    "notes": "Class Games and Activity Records now have clearer names. Added Spell Fix with Question Bank and CSV authoring, a side-by-side teacher preview, raised letter tiles, one-letter reveal/undo and a per-letter bell. Completed shared calling cycles restart automatically on the next selection. Word Scramble preserves spaces and word order. Added a saved Prayer Bank with CSV import, student-led and class chorus modes, and readable paged prayer text. Existing attendance filters, scores, separate steal rotation, saved backgrounds and music are preserved.",
-    "published_at": "2026-10-24T09:28:11.589264+00:00"
+    "version": "0.1.78-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.78-beta/LJB-Talino-Setup-0.1.78-beta.exe",
+    "sha256": "a5d8941dbd3793466c3b8bb016e3f774216f231728e84e73aa509aa190fe4b48",
+    "size": 81956680,
+    "notes": "Learner profiles now show all scored activities and exams with subject, term and status filters, including blank scores marked No record on file. Prayer projection has larger, bolder text, a darker reading panel and shorter pages. Teacher prayer controls show a private script preview and the same page as the TV, with synchronized Previous and Next controls and a compact presentation view.",
+    "published_at": "2026-10-24T11:59:57.451270+00:00"
   },
-  "signature": "NJmYizc+9K22lFzFPG8dVdJbLCkWmFMrv93nBGQiDJy3dL0hvTlTWJnN5tH8UWuvpfVTRGWemROaeVR+PpwVDw=="
+  "signature": "fJhhxREIk4gDtQVxRVQoBT/RY9ubSxX4Z3sIS2QtM3S5mlj3/yHzHb1myqNtlJGewzzZlYOsUx+ka8xE9pq8Bw=="
 }
