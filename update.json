@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.79-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.79-beta/LJB-Talino-Setup-0.1.79-beta.exe",
-    "sha256": "8ec921ad00fe20b6ede27d1bd84dc7a2209d1212fc05a3a379897fe22c368420",
-    "size": 81953478,
-    "notes": "Learner profiles now have one Term selector for activities, exam scores and dated history, with All terms and optional Custom dates. Set term start/end dates once in Settings, School and reports. Attendance no longer shows another term when dates are missing. Removed the experimental name-hiding feature. Existing classroom records and locally prepared demo records are preserved.",
-    "published_at": "2026-10-24T13:25:20.081195+00:00"
+    "version": "0.1.80-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.80-beta/LJB-Talino-Setup-0.1.80-beta.exe",
+    "sha256": "253cac6f707498c4ef7fc48702daf0f0949c570ba80dd705e37cf2306f3f3e33",
+    "size": 81991569,
+    "notes": "Opening and closing prayers remember separate background music choices. Class chorus automatically selects from the matching prayer bank, using saved prayers before repeating while retaining manual selection. Added quiet class-end reminders on the teacher screen with next-class information, automatic dismissal and a Schedule on/off setting; desktop reminders work while minimized without taking presentation focus. Existing records and settings are preserved.",
+    "published_at": "2026-10-24T14:41:42.847250+00:00"
   },
-  "signature": "BFDmGDN2I+RUUOuqVBbpi/8tl4ErsLq5ekcsIbSwKIFKCwxG+9znDL053F7fRAkHr1GnEAhoTDGgJzDfUoodDA=="
+  "signature": "ZOokOn32HeUIxu0+OItAVUYdhzReTALIR3/rj4RbJueY3bZtSPIwRNBSX+pNdIUqBobwtMbmPS81qd2IQwAnAQ=="
 }
