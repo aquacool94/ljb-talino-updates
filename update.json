@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.82-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.82-beta/LJB-Talino-Setup-0.1.82-beta.exe",
-    "sha256": "f4f29d070c7297f91562f532be66e4e8313e65f64679d7340ba45bc17aadda54",
-    "size": 81996817,
-    "notes": "Added a compact Activity results view with numbers-only analysis for DLL reflection: scores recorded, average score, learners meeting the 80 percent mastery target, learners below target and unrecorded count. Blank scores remain unassessed and recorded zero is included. Copy summary contains no student names, updates from confirmed saved scores and waits for pending edits to save. Target adjustments apply per activity during the current app session. Existing records and settings are preserved.",
-    "published_at": "2026-10-25T06:25:39.809539+00:00"
+    "version": "0.1.83-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.83-beta/LJB-Talino-Setup-0.1.83-beta.exe",
+    "sha256": "d2479cb8c6c357ea74e4d0d50563b5c5d792d6f33c452b961921210e9af9084e",
+    "size": 82445840,
+    "notes": "Score fields no longer change when the mouse wheel scrolls over them; page scrolling, typing and autosave continue normally. Added desktop security hardening for local host access, repeated login attempts, scanner resource limits, image validation, backup restoration and private access logs. Updated security-related dependencies. Existing classroom records, settings and activation are preserved. Cloudflare service changes require a separate deployment.",
+    "published_at": "2026-10-25T07:22:16.127964+00:00"
   },
-  "signature": "u9GXSVSj6yi6L+EES2LnLLq2Ez59IK/F8CxQwtT7494BtOcnZsS4Zr0Hgmds5aAl7MkDY1aWpwtEyF8M1fn5Bg=="
+  "signature": "Ejap7nOeAOk/ra7FHFJ2RPuzca89+aPk7SiV5acHP9aD5TsYG9SosAsVKQk1lF0Nldj1E8u4NNGFBcDSsR9rDA=="
 }
