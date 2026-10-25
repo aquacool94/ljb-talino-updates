@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.83-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.83-beta/LJB-Talino-Setup-0.1.83-beta.exe",
-    "sha256": "d2479cb8c6c357ea74e4d0d50563b5c5d792d6f33c452b961921210e9af9084e",
-    "size": 82445840,
-    "notes": "Score fields no longer change when the mouse wheel scrolls over them; page scrolling, typing and autosave continue normally. Added desktop security hardening for local host access, repeated login attempts, scanner resource limits, image validation, backup restoration and private access logs. Updated security-related dependencies. Existing classroom records, settings and activation are preserved. Cloudflare service changes require a separate deployment.",
-    "published_at": "2026-10-25T07:22:16.127964+00:00"
+    "version": "0.1.84-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.84-beta/LJB-Talino-Setup-0.1.84-beta.exe",
+    "sha256": "f9f0f92a94a07ecde7d0b705330700d3dbf994863f91804794ba24f7831a78f8",
+    "size": 82451849,
+    "notes": "Added a compact Exam Results register with search, section and scanning-status filters, pagination and separate score, unscanned learner, summary and analysis tabs. Added personal no-record slip image, PNG and text actions beside Print. Activity follow-up images now include category and a submission reminder, using configured deadlines for late-submission wording. Includes the score mouse-wheel protection from the previous release. Existing records, settings and activation are preserved.",
+    "published_at": "2026-10-25T08:34:51.826572+00:00"
   },
-  "signature": "Ejap7nOeAOk/ra7FHFJ2RPuzca89+aPk7SiV5acHP9aD5TsYG9SosAsVKQk1lF0Nldj1E8u4NNGFBcDSsR9rDA=="
+  "signature": "4JmMLqMbjtuG6qVmP9ORLvLvGtjRsz1wYc4FWVHPb3v5fWPnQ/xA4wdpkSy/uh77okotbjgRsQwO2i3ltH/7DQ=="
 }
