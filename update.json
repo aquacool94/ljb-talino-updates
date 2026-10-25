@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.80-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.80-beta/LJB-Talino-Setup-0.1.80-beta.exe",
-    "sha256": "253cac6f707498c4ef7fc48702daf0f0949c570ba80dd705e37cf2306f3f3e33",
-    "size": 81991569,
-    "notes": "Opening and closing prayers remember separate background music choices. Class chorus automatically selects from the matching prayer bank, using saved prayers before repeating while retaining manual selection. Added quiet class-end reminders on the teacher screen with next-class information, automatic dismissal and a Schedule on/off setting; desktop reminders work while minimized without taking presentation focus. Existing records and settings are preserved.",
-    "published_at": "2026-10-24T14:41:42.847250+00:00"
+    "version": "0.1.81-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.81-beta/LJB-Talino-Setup-0.1.81-beta.exe",
+    "sha256": "9f00a124a842fe7e27813a4cdef713e92a8a6e4357adc667fc56e0a310584f7c",
+    "size": 81994930,
+    "notes": "Opening prayer automatically preselects a learner before attendance, with Choose another for absent learners and saved absence checks preserved. Activity records now show compact No record on file cards with full-list PNG, image-copy and name-copy options, plus clear Complete or unrecorded status pills. Activity detail controls and helper text are more compact. Existing records and settings are preserved.",
+    "published_at": "2026-10-25T03:56:04.344405+00:00"
   },
-  "signature": "ZOokOn32HeUIxu0+OItAVUYdhzReTALIR3/rj4RbJueY3bZtSPIwRNBSX+pNdIUqBobwtMbmPS81qd2IQwAnAQ=="
+  "signature": "/BrQjInPU82kL1sgth67uyXsp2W4llj/bHSe9dZRA4FsPe3eRFHMREcAPih2B9PSjD8+35DF+SgTjhnp2WhGCQ=="
 }
