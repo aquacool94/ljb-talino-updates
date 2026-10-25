@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.84-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.84-beta/LJB-Talino-Setup-0.1.84-beta.exe",
-    "sha256": "f9f0f92a94a07ecde7d0b705330700d3dbf994863f91804794ba24f7831a78f8",
-    "size": 82451849,
-    "notes": "Added a compact Exam Results register with search, section and scanning-status filters, pagination and separate score, unscanned learner, summary and analysis tabs. Added personal no-record slip image, PNG and text actions beside Print. Activity follow-up images now include category and a submission reminder, using configured deadlines for late-submission wording. Includes the score mouse-wheel protection from the previous release. Existing records, settings and activation are preserved.",
-    "published_at": "2026-10-25T08:34:51.826572+00:00"
+    "version": "0.1.85-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.85-beta/LJB-Talino-Setup-0.1.85-beta.exe",
+    "sha256": "85c7bb29c3014c7c0c15b5333e73321b9155c6e0d4a615b7b604997d25e1255f",
+    "size": 82466988,
+    "notes": "Added Class Aquarium inside Class Games, using existing saved participation points by section, subject and date range. Includes six distinct fish designs, visible growth stages, a leaderboard, Sunny Reef and Night Glow themes, synchronized projection and smooth swimming with edge turns. Swimming can be paused; reduced-motion preferences are respected. No duplicate points or changes to calling cycles. Existing classroom records, settings and activation are preserved.",
+    "published_at": "2026-10-25T13:04:09.167148+00:00"
   },
-  "signature": "4JmMLqMbjtuG6qVmP9ORLvLvGtjRsz1wYc4FWVHPb3v5fWPnQ/xA4wdpkSy/uh77okotbjgRsQwO2i3ltH/7DQ=="
+  "signature": "xUnH8HywHyXbvgMyGyYgVp2Q7t5+v2jnQgsH/UIHEcarZ8lJFH/OWzLw6NwubVbBjR8b8lY9dMgVgTLUKlJEBQ=="
 }
