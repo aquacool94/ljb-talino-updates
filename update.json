@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.81-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.81-beta/LJB-Talino-Setup-0.1.81-beta.exe",
-    "sha256": "9f00a124a842fe7e27813a4cdef713e92a8a6e4357adc667fc56e0a310584f7c",
-    "size": 81994930,
-    "notes": "Opening prayer automatically preselects a learner before attendance, with Choose another for absent learners and saved absence checks preserved. Activity records now show compact No record on file cards with full-list PNG, image-copy and name-copy options, plus clear Complete or unrecorded status pills. Activity detail controls and helper text are more compact. Existing records and settings are preserved.",
-    "published_at": "2026-10-25T03:56:04.344405+00:00"
+    "version": "0.1.82-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.82-beta/LJB-Talino-Setup-0.1.82-beta.exe",
+    "sha256": "f4f29d070c7297f91562f532be66e4e8313e65f64679d7340ba45bc17aadda54",
+    "size": 81996817,
+    "notes": "Added a compact Activity results view with numbers-only analysis for DLL reflection: scores recorded, average score, learners meeting the 80 percent mastery target, learners below target and unrecorded count. Blank scores remain unassessed and recorded zero is included. Copy summary contains no student names, updates from confirmed saved scores and waits for pending edits to save. Target adjustments apply per activity during the current app session. Existing records and settings are preserved.",
+    "published_at": "2026-10-25T06:25:39.809539+00:00"
   },
-  "signature": "/BrQjInPU82kL1sgth67uyXsp2W4llj/bHSe9dZRA4FsPe3eRFHMREcAPih2B9PSjD8+35DF+SgTjhnp2WhGCQ=="
+  "signature": "u9GXSVSj6yi6L+EES2LnLLq2Ez59IK/F8CxQwtT7494BtOcnZsS4Zr0Hgmds5aAl7MkDY1aWpwtEyF8M1fn5Bg=="
 }
