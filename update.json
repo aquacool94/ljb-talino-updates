@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.85-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.85-beta/LJB-Talino-Setup-0.1.85-beta.exe",
-    "sha256": "85c7bb29c3014c7c0c15b5333e73321b9155c6e0d4a615b7b604997d25e1255f",
-    "size": 82466988,
-    "notes": "Added Class Aquarium inside Class Games, using existing saved participation points by section, subject and date range. Includes six distinct fish designs, visible growth stages, a leaderboard, Sunny Reef and Night Glow themes, synchronized projection and smooth swimming with edge turns. Swimming can be paused; reduced-motion preferences are respected. No duplicate points or changes to calling cycles. Existing classroom records, settings and activation are preserved.",
-    "published_at": "2026-10-25T13:04:09.167148+00:00"
+    "version": "0.1.86-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.86-beta/LJB-Talino-Setup-0.1.86-beta.exe",
+    "sha256": "491feba83055b337682ce4239b19c9adae2e38f5f030ab55628b51995ea279f6",
+    "size": 82469185,
+    "notes": "Attendance now requires a named subject before checking learners. Removed General attendance from the attendance entry choices, retained automatic selection of a matching scheduled subject, and preserved historical attendance records. Includes all previous Class Aquarium features and improvements.",
+    "published_at": "2026-10-29T02:01:22.194508+00:00"
   },
-  "signature": "xUnH8HywHyXbvgMyGyYgVp2Q7t5+v2jnQgsH/UIHEcarZ8lJFH/OWzLw6NwubVbBjR8b8lY9dMgVgTLUKlJEBQ=="
+  "signature": "gGJo+i0l4ox1slllDPvZLIIsuaOBqQh+p05EpnWhVd/7jnITnIsWgd/pjCBCSB+vy05IJuOoemu7SByC22eICQ=="
 }
