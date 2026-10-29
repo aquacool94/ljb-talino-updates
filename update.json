@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.86-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.86-beta/LJB-Talino-Setup-0.1.86-beta.exe",
-    "sha256": "491feba83055b337682ce4239b19c9adae2e38f5f030ab55628b51995ea279f6",
-    "size": 82469185,
-    "notes": "Attendance now requires a named subject before checking learners. Removed General attendance from the attendance entry choices, retained automatic selection of a matching scheduled subject, and preserved historical attendance records. Includes all previous Class Aquarium features and improvements.",
-    "published_at": "2026-10-29T02:01:22.194508+00:00"
+    "version": "0.1.87-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.87-beta/LJB-Talino-Setup-0.1.87-beta.exe",
+    "sha256": "c9aceaa0b74f82803839386b9f361f5374756541f4f606e3ab95f1d32892515f",
+    "size": 82495417,
+    "notes": "Added HulaLetra in Class Games: 3-15 letter words including N-tilde, private teacher setup, live projection, correct repeated-letter feedback, independent group rounds, question-bank reuse and saved points. Added Create exams for multiple sections: enter one answer key and create separate exam records, scan links, scores and analysis for selected sections. Includes the previous subject-required attendance update. Existing classroom records, settings and activation are preserved.",
+    "published_at": "2026-10-29T16:36:31.055472+00:00"
   },
-  "signature": "gGJo+i0l4ox1slllDPvZLIIsuaOBqQh+p05EpnWhVd/7jnITnIsWgd/pjCBCSB+vy05IJuOoemu7SByC22eICQ=="
+  "signature": "0cvJxxPf/m9Pi4YjTkItJ0jVmTc3YXbB7cImgLV8xyVin6UW2+HOtfS5EpqH4pjs5BeOM7pnn+VK07q2FxldAw=="
 }
