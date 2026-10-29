@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.87-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.87-beta/LJB-Talino-Setup-0.1.87-beta.exe",
-    "sha256": "c9aceaa0b74f82803839386b9f361f5374756541f4f606e3ab95f1d32892515f",
-    "size": 82495417,
-    "notes": "Added HulaLetra in Class Games: 3-15 letter words including N-tilde, private teacher setup, live projection, correct repeated-letter feedback, independent group rounds, question-bank reuse and saved points. Added Create exams for multiple sections: enter one answer key and create separate exam records, scan links, scores and analysis for selected sections. Includes the previous subject-required attendance update. Existing classroom records, settings and activation are preserved.",
-    "published_at": "2026-10-29T16:36:31.055472+00:00"
+    "version": "0.1.88-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.88-beta/LJB-Talino-Setup-0.1.88-beta.exe",
+    "sha256": "3e67eb803f92bbc09c03445387b5dd69c71a035e35403acaef421a0dd0e60512",
+    "size": 82496728,
+    "notes": "Organized Class Games with one eight-game picker, compact Play/Records tabs and grouped Start/sound/settings controls. Replaced HulaLetra browser confirmations with Talino-styled Keep playing / Reveal answer dialogs. Removed General attendance fallback choices from Class Games and Prayer; named subjects are required, with scheduled-class selection when available. Aquarium now offers a read-only All subjects view including earlier saved points. Includes HulaLetra, multi-section exam creation and all previous features. Existing classroom records, settings and activation are preserved.",
+    "published_at": "2026-10-29T17:18:20.150572+00:00"
   },
-  "signature": "0cvJxxPf/m9Pi4YjTkItJ0jVmTc3YXbB7cImgLV8xyVin6UW2+HOtfS5EpqH4pjs5BeOM7pnn+VK07q2FxldAw=="
+  "signature": "DkDdH0tzQa3X5t7L0WL/ZK+cj2wc5xoTSa4eRTPAyB8lybbyEkcS8xI+Hxx+reI8dDA7b90zjVCc+grQWnyPBg=="
 }
