@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.89-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.89-beta/LJB-Talino-Setup-0.1.89-beta.exe",
-    "sha256": "e01534761dc52f2d5a3af0b9645f63936902201ee2b8b33fb23f15cc0e4634c0",
-    "size": 82500902,
-    "notes": "HulaLetra now includes a downloadable word template and bulk CSV UTF-8 upload. Prepare Answer, Initial clue, Extra clue and Subject/topic in Excel; upload up to 100 words into a saved Question Bank set and select words without retyping. Invalid rows are reported before anything is saved. Includes the organized Class Games layout, named-subject choices and all previous features. Existing classroom records, settings and activation are preserved.",
-    "published_at": "2026-10-30T00:48:03.813071+00:00"
+    "version": "0.1.90-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.90-beta/LJB-Talino-Setup-0.1.90-beta.exe",
+    "sha256": "f700430b8a31a0d78393f7151c017299ba6ad1711e1dcbd812837bc76b635588",
+    "size": 82561757,
+    "notes": "Adds HulaLarawan discussion tiles and 4 Pics, 1 Word with reusable picture banks, direct preview letter hints, and an AI-ready ZIP template and bulk upload (up to 20 puzzles per pack). HulaLetra gains a saved-question queue, optional timer and keyboard, larger adaptive guess tiles, saved background music, and compact colored manual group peso totals on one shared board. Classroom Signals now includes large red/green circles, removes Voice Level, and uses the current scheduled class correctly for Wheel and Duck Race. Attendance marking stays visually steady. Includes prior features and preserves classroom records, settings and activation.",
+    "published_at": "2026-10-30T19:57:01.221627+00:00"
   },
-  "signature": "te5vF+0ppHR3LF1WJWSQZlrhr3NQ6OAoOxdMLeERDM+cvKep1geEe8dy8FMG0Pc7xbhoYYVKYsuRz0f/bNH0Bg=="
+  "signature": "JpEpQc0CZjzT4W4F+iQuekAUoNO0G5iyU4DMmr54XmKr64F7ohuaEMwgRyITZd2fQ3Gtv1d+3xfWzmI7o9JSCw=="
 }
