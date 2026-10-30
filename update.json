@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.88-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.88-beta/LJB-Talino-Setup-0.1.88-beta.exe",
-    "sha256": "3e67eb803f92bbc09c03445387b5dd69c71a035e35403acaef421a0dd0e60512",
-    "size": 82496728,
-    "notes": "Organized Class Games with one eight-game picker, compact Play/Records tabs and grouped Start/sound/settings controls. Replaced HulaLetra browser confirmations with Talino-styled Keep playing / Reveal answer dialogs. Removed General attendance fallback choices from Class Games and Prayer; named subjects are required, with scheduled-class selection when available. Aquarium now offers a read-only All subjects view including earlier saved points. Includes HulaLetra, multi-section exam creation and all previous features. Existing classroom records, settings and activation are preserved.",
-    "published_at": "2026-10-29T17:18:20.150572+00:00"
+    "version": "0.1.89-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.89-beta/LJB-Talino-Setup-0.1.89-beta.exe",
+    "sha256": "e01534761dc52f2d5a3af0b9645f63936902201ee2b8b33fb23f15cc0e4634c0",
+    "size": 82500902,
+    "notes": "HulaLetra now includes a downloadable word template and bulk CSV UTF-8 upload. Prepare Answer, Initial clue, Extra clue and Subject/topic in Excel; upload up to 100 words into a saved Question Bank set and select words without retyping. Invalid rows are reported before anything is saved. Includes the organized Class Games layout, named-subject choices and all previous features. Existing classroom records, settings and activation are preserved.",
+    "published_at": "2026-10-30T00:48:03.813071+00:00"
   },
-  "signature": "DkDdH0tzQa3X5t7L0WL/ZK+cj2wc5xoTSa4eRTPAyB8lybbyEkcS8xI+Hxx+reI8dDA7b90zjVCc+grQWnyPBg=="
+  "signature": "te5vF+0ppHR3LF1WJWSQZlrhr3NQ6OAoOxdMLeERDM+cvKep1geEe8dy8FMG0Pc7xbhoYYVKYsuRz0f/bNH0Bg=="
 }
