@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.90-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.90-beta/LJB-Talino-Setup-0.1.90-beta.exe",
-    "sha256": "f700430b8a31a0d78393f7151c017299ba6ad1711e1dcbd812837bc76b635588",
-    "size": 82561757,
-    "notes": "Adds HulaLarawan discussion tiles and 4 Pics, 1 Word with reusable picture banks, direct preview letter hints, and an AI-ready ZIP template and bulk upload (up to 20 puzzles per pack). HulaLetra gains a saved-question queue, optional timer and keyboard, larger adaptive guess tiles, saved background music, and compact colored manual group peso totals on one shared board. Classroom Signals now includes large red/green circles, removes Voice Level, and uses the current scheduled class correctly for Wheel and Duck Race. Attendance marking stays visually steady. Includes prior features and preserves classroom records, settings and activation.",
-    "published_at": "2026-10-30T19:57:01.221627+00:00"
+    "version": "0.1.91-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.91-beta/LJB-Talino-Setup-0.1.91-beta.exe",
+    "sha256": "e42ee291457a78d96a1d3e88f9b59dd4d506546c66c07d552fd9946e5824e8a8",
+    "size": 82580819,
+    "notes": "Adds the optional private Student Portal: bulk-publish selected-term activity records with masked names and individual access codes, pause student viewing, unpublish selected or all records, and reset access codes. Includes a fictional demo; no classroom records upload automatically. Brings consistent blue/teal styling and readable controls across the teacher workspace and game popups, plus schedule maintenance and expanded trial-expiry regression checks. Includes all prior classroom features and preserves records, settings and activation. Portal publishing requires a separately provisioned connection; publishing credentials are never bundled in the installer.",
+    "published_at": "2026-10-30T23:00:19.718959+00:00"
   },
-  "signature": "JpEpQc0CZjzT4W4F+iQuekAUoNO0G5iyU4DMmr54XmKr64F7ohuaEMwgRyITZd2fQ3Gtv1d+3xfWzmI7o9JSCw=="
+  "signature": "z2Tmz+Tb/gRdR5obb/KBZpcCqKldR11g9BYmz6XELQzEdS6U0+nXY5HL2pkEw4B1ROgBampTYFAQ/I93lFLEAQ=="
 }
