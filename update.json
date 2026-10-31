@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.91-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.91-beta/LJB-Talino-Setup-0.1.91-beta.exe",
-    "sha256": "e42ee291457a78d96a1d3e88f9b59dd4d506546c66c07d552fd9946e5824e8a8",
-    "size": 82580819,
-    "notes": "Adds the optional private Student Portal: bulk-publish selected-term activity records with masked names and individual access codes, pause student viewing, unpublish selected or all records, and reset access codes. Includes a fictional demo; no classroom records upload automatically. Brings consistent blue/teal styling and readable controls across the teacher workspace and game popups, plus schedule maintenance and expanded trial-expiry regression checks. Includes all prior classroom features and preserves records, settings and activation. Portal publishing requires a separately provisioned connection; publishing credentials are never bundled in the installer.",
-    "published_at": "2026-10-30T23:00:19.718959+00:00"
+    "version": "0.1.92-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.92-beta/LJB-Talino-Setup-0.1.92-beta.exe",
+    "sha256": "1e0a25cc81330b4651f1517bbb0818f2371d62a251ef14f991f4972992c922ec",
+    "size": 82598730,
+    "notes": "Improves the private Student Portal with easier eight-character access codes, the short students.ljbtalino.com address for configured portals, a searchable learner access list by section, Excel master-list downloads and individual access slips in a ZIP. Adds published subject attendance with term dates, subject filters and attendance totals. Excludes General attendance from learner profiles, subject menus and new online copies while preserving stored records. Includes all previously unpackaged portal improvements. After installing, publish selected sections again to include attendance; missing term dates must first be configured in Settings. Existing records, settings, activation and access codes are preserved. No classroom records upload automatically; publishing credentials are not bundled.",
+    "published_at": "2026-10-31T00:50:40.229740+00:00"
   },
-  "signature": "z2Tmz+Tb/gRdR5obb/KBZpcCqKldR11g9BYmz6XELQzEdS6U0+nXY5HL2pkEw4B1ROgBampTYFAQ/I93lFLEAQ=="
+  "signature": "pkfAcO5ZH7c+j/dHwz8mu36Cx4QHps0lurinKv3lWDOQumBVjIiBYQC1ETgjOHnsK+P3/pidhF10sMHpXICLDg=="
 }
