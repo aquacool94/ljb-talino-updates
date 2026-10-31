@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.94-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.94-beta/LJB-Talino-Setup-0.1.94-beta.exe",
-    "sha256": "44679c36852c31f3c935171ef6e3a97c415bc89ec901fa372b7af7a146ebe9e4",
-    "size": 82637458,
-    "notes": "Adds optional teacher-reviewed term grade publishing to the private Student Portal. In Grades > Term 1-3 overview > Student portal grades, select terms, review complete grades and confirm publication. Students see released term grades by subject and school year; final grades appear only after every taught term is released. Later local edits remain private until republished. Remove published grades for one subject without removing activities, attendance or groupings. Includes all pending portal grade controls, updated fictional demo and current portal assets. The live website already retains sign-in through refresh for up to 30 minutes, with server-side expiry and revocation; no access code is stored in browser storage. Existing classroom records, settings, activation and student access codes are preserved. No records or grades upload automatically, and publishing credentials are never bundled.",
-    "published_at": "2026-10-31T08:59:03.057620+00:00"
+    "version": "0.1.95-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.95-beta/LJB-Talino-Setup-0.1.95-beta.exe",
+    "sha256": "c6eb5bcc4d74b9884cdbd1e799365f81924dae8fc220f1154be3b26573c94f5b",
+    "size": 82653209,
+    "notes": "Adds automatic paid-license renewal syncing using the securely saved activation key, with a Check now backup and offline access preserved until the signed expiry. Includes automatic portal setup for active paid online installations, stable teacher-prefixed online learner IDs such as T001-118, and a shared login at students.ljbtalino.com. Access lists, Excel downloads and private slips include portal login IDs; original classroom IDs, student codes and old direct links remain valid. Moves Learning Race into Class Games while retaining live rooms and existing records. Includes all completed changes since 0.1.94. Publishing remains explicit; private credentials and classroom data are excluded from the installer.",
+    "published_at": "2026-10-31T12:42:24.777982+00:00"
   },
-  "signature": "QIo0/Y95ESLarLt+mH2aeDWZKvIqqrKHaxmz3Y7L+8HSnFHQTqrZ3OAnkSGmUR0zUpV113G67aZbpOFu4p7uDQ=="
+  "signature": "Ym7ydivkJ1IhzUPq1Qt3n4kXJk0zYiOvNffxMzrZ8HNscyUHHTNYL3k2bCsqI8lC0yXdHFCFF9NOl5W8t0R8Cw=="
 }
