@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.95-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.95-beta/LJB-Talino-Setup-0.1.95-beta.exe",
-    "sha256": "c6eb5bcc4d74b9884cdbd1e799365f81924dae8fc220f1154be3b26573c94f5b",
-    "size": 82653209,
-    "notes": "Adds automatic paid-license renewal syncing using the securely saved activation key, with a Check now backup and offline access preserved until the signed expiry. Includes automatic portal setup for active paid online installations, stable teacher-prefixed online learner IDs such as T001-118, and a shared login at students.ljbtalino.com. Access lists, Excel downloads and private slips include portal login IDs; original classroom IDs, student codes and old direct links remain valid. Moves Learning Race into Class Games while retaining live rooms and existing records. Includes all completed changes since 0.1.94. Publishing remains explicit; private credentials and classroom data are excluded from the installer.",
-    "published_at": "2026-10-31T12:42:24.777982+00:00"
+    "version": "0.1.96-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.96-beta/LJB-Talino-Setup-0.1.96-beta.exe",
+    "sha256": "b52b4a6a996c1b64f7c4868d93c082452b90136d50fbc8166db4c3b49abb0339",
+    "size": 82682336,
+    "notes": "Adds the private teacher portal and optional Cloud sync for selected classroom records. Includes separate teacher login, offline retries, read-only learner records, subject attendance, draft grades and groups. Sync remains off until enabled in Settings.",
+    "published_at": "2026-10-31T14:13:42.221205+00:00"
   },
-  "signature": "Ym7ydivkJ1IhzUPq1Qt3n4kXJk0zYiOvNffxMzrZ8HNscyUHHTNYL3k2bCsqI8lC0yXdHFCFF9NOl5W8t0R8Cw=="
+  "signature": "EFsCCoLOFU1ayNMxSp+0MB/TjaCMEOrpUgvd6e6QEmfxKtIghpIkFgutCG76caNr0FJ/Hqx0p1Dk/dDGwYO/CA=="
 }
