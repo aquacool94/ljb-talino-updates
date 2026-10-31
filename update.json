@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.92-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.92-beta/LJB-Talino-Setup-0.1.92-beta.exe",
-    "sha256": "1e0a25cc81330b4651f1517bbb0818f2371d62a251ef14f991f4972992c922ec",
-    "size": 82598730,
-    "notes": "Improves the private Student Portal with easier eight-character access codes, the short students.ljbtalino.com address for configured portals, a searchable learner access list by section, Excel master-list downloads and individual access slips in a ZIP. Adds published subject attendance with term dates, subject filters and attendance totals. Excludes General attendance from learner profiles, subject menus and new online copies while preserving stored records. Includes all previously unpackaged portal improvements. After installing, publish selected sections again to include attendance; missing term dates must first be configured in Settings. Existing records, settings, activation and access codes are preserved. No classroom records upload automatically; publishing credentials are not bundled.",
-    "published_at": "2026-10-31T00:50:40.229740+00:00"
+    "version": "0.1.93-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.93-beta/LJB-Talino-Setup-0.1.93-beta.exe",
+    "sha256": "37d39f4f8efe813df3e5040d13c841b8ef57aafdcd538587acf9ab5941bfe3f7",
+    "size": 82635700,
+    "notes": "Adds local SHS Grades with subject presets, reviewed activity and approved exam scores, verified SY 2026-2027 adjusted transmutation, finalized Term 1-3 grade entry, draft print and CSV. Entered term grades are never transmuted again or overwritten by activity-score edits. Blank scores require review instead of counting as zero. Includes pending student-portal group publishing, masked groupmates and roles, updated portal sign-in, Talino website icon and date-limited seasonal styling. Publish selected sections again after installing to include saved groups. Existing records, settings, activation and student access codes are preserved. Grades stay local and are not published to the portal. No classroom records upload automatically; publishing credentials are not bundled.",
+    "published_at": "2026-10-31T07:24:51.284096+00:00"
   },
-  "signature": "pkfAcO5ZH7c+j/dHwz8mu36Cx4QHps0lurinKv3lWDOQumBVjIiBYQC1ETgjOHnsK+P3/pidhF10sMHpXICLDg=="
+  "signature": "vBl84tVStDgwdiz+J/6RH5SgXciPp4V19cgiaKuYBR6JYmLPGj2NQNsuswlzMRy2Ud6cvvh6f+vhSuQhKvIeAQ=="
 }
