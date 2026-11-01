@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.97-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.97-beta/LJB-Talino-Setup-0.1.97-beta.exe",
-    "sha256": "4512366c86b4614396d67a311ece16770a63a3f1f10f742ca4c828e5107fac5f",
-    "size": 83036999,
-    "notes": "Online attendance with conflict-safe Windows sync; branded backup files, verified backup retention and storage controls; teacher account and recovery email fixes.",
-    "published_at": "2026-11-01T04:51:31.245237+00:00"
+    "version": "0.1.98-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.98-beta/LJB-Talino-Setup-0.1.98-beta.exe",
+    "sha256": "71cb9bb445153edc0795db60861587a5b65f1f2a46efb085023d5d45fc445e48",
+    "size": 83052822,
+    "notes": "Android phone scan sync with private photo transfer, protected exam export, and pending interface fixes.",
+    "published_at": "2026-11-01T10:32:01.641103+00:00"
   },
-  "signature": "BZ98o9IR/xTgr1BPe2VqFO2f/QZOy5wjA9/l2K7KWK3zXTzlBkkvXYJ7XVSXR+NCVlO9T9sLhslELakWaXHhCw=="
+  "signature": "mUJocc+m7NTxsneaigoUXd+M1LDEGJkWVhe56iWKH3pss0mnjDzbv/JYQJAzQ1gZCZFkbCQE6xrVebE63xUkCQ=="
 }
