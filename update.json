@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.98-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.98-beta/LJB-Talino-Setup-0.1.98-beta.exe",
-    "sha256": "71cb9bb445153edc0795db60861587a5b65f1f2a46efb085023d5d45fc445e48",
-    "size": 83052822,
-    "notes": "Android phone scan sync with private photo transfer, protected exam export, and pending interface fixes.",
-    "published_at": "2026-11-01T10:32:01.641103+00:00"
+    "version": "0.1.99-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.99-beta/LJB-Talino-Setup-0.1.99-beta.exe",
+    "sha256": "e80a7e1cae131248c7337ec209285e90220d9b5322b2436a100817cb62f26063",
+    "size": 83051180,
+    "notes": "Android companion: attendance, direct exam selection, phone exam creation, and one-tap saved exams.",
+    "published_at": "2026-11-01T11:13:09.739126+00:00"
   },
-  "signature": "mUJocc+m7NTxsneaigoUXd+M1LDEGJkWVhe56iWKH3pss0mnjDzbv/JYQJAzQ1gZCZFkbCQE6xrVebE63xUkCQ=="
+  "signature": "Hz9loCqO7cOBfPJvIXEunXPp1CJ3Rnw94E5fO0FrZ6/AxSwmFoQCoeaDOZYwUXXLlvsJP5xeUr9A3M6EiN6GAQ=="
 }
