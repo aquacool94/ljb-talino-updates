@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.101-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.101-beta/LJB-Talino-Setup-0.1.101-beta.exe",
-    "sha256": "81712d6a48e06c4928a8b3df88efaea2ef98f5cd7a0f8cc7bc62c524bd957860",
-    "size": 83050809,
-    "notes": "Confirmed scan replacement without archived photo versions, with safe retry and photo sync.",
-    "published_at": "2026-11-02T01:52:47.733475+00:00"
+    "version": "0.1.103-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.103-beta/LJB-Talino-Setup-0.1.103-beta.exe",
+    "sha256": "0d0e8cc8176e6579f10a0e24eb212e07f723f83f2dae91bb2ea64bbd0cd47430",
+    "size": 83070176,
+    "notes": "Participation Overview and Learners to follow up with evidence, adjustable rules, and aligned filters.",
+    "published_at": "2026-11-08T22:15:03.178964+00:00"
   },
-  "signature": "Om8wCfoGne3SEee8YfZb5AEu6F7s61oico797N/IqMT8KwDeEgVE/ih6K/ek08Yz8Hgw/aR9WlE+8/2ScgeECw=="
+  "signature": "KUSQb7BuCfCsbZkaiEiZwY1jKfgvardc28QJfZY2njF/SKLbR5oJn/gJ9UOcostrv0NCGGDlLGS7W4G7p+PvDQ=="
 }
