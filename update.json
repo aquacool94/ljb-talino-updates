@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.103-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.103-beta/LJB-Talino-Setup-0.1.103-beta.exe",
-    "sha256": "0d0e8cc8176e6579f10a0e24eb212e07f723f83f2dae91bb2ea64bbd0cd47430",
-    "size": 83070176,
-    "notes": "Participation Overview and Learners to follow up with evidence, adjustable rules, and aligned filters.",
-    "published_at": "2026-11-08T22:15:03.178964+00:00"
+    "version": "0.1.104-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.104-beta/LJB-Talino-Setup-0.1.104-beta.exe",
+    "sha256": "619301c614c839dce954a40b9da50a61323700e21c376a44386f124f7ea4a5f4",
+    "size": 83074685,
+    "notes": "Illustrated sidebar and Class Games icons, compact Students tabs, and corrected teaching-subject options.",
+    "published_at": "2026-11-08T23:05:45.590514+00:00"
   },
-  "signature": "KUSQb7BuCfCsbZkaiEiZwY1jKfgvardc28QJfZY2njF/SKLbR5oJn/gJ9UOcostrv0NCGGDlLGS7W4G7p+PvDQ=="
+  "signature": "P2GYlAhGwQJsF3bo9fwQZ4HcHi2PUlg/uQjPlD5LDE3+V0T+vL2om7x5AtyxaNiZ+K8WLICPjiq1LNCmX22BAw=="
 }
