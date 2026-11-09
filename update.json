@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.105-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.105-beta/LJB-Talino-Setup-0.1.105-beta.exe",
-    "sha256": "a877a5a3d38c424fe5354558c367888a65f6f9630383db7fd6e7cb99f936aee2",
-    "size": 83105452,
-    "notes": "Adds Human Shuffle with printable cards, countdown, group scoring and CSV template upload; fixes score-panel spacing and adds the Assessment category in Activity Records.",
-    "published_at": "2026-11-09T01:59:55.243891+00:00"
+    "version": "0.1.106-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.106-beta/LJB-Talino-Setup-0.1.106-beta.exe",
+    "sha256": "3b3e5be7fffaffa8ad1ea2099dacda97489afd73896afc5fabec0edb07aca824",
+    "size": 83106278,
+    "notes": "Activity Records adds alphabetized Seatwork, Lesson Assessment, Assignment and Group Activity categories, optional late-submission point deductions, and Copy summary grouped by section and learner. Original scores and existing records are preserved.",
+    "published_at": "2026-11-09T08:06:57.420411+00:00"
   },
-  "signature": "47lpND1Ux1ohSEsJaNJfqqBQz0WF1Bpr9vstyUCUPoVTHfxjd664iPbxPLBqRWCzYf5ycZRT8rE6WnNrMc+cAw=="
+  "signature": "wRKLYl/VCcpEZkqjBgGVJrWXzq5kPMjEpIzElscwPLPVjeGMoXYmPcX0PdGrfH82RmWMmdXyUfd8A7BP6TmADA=="
 }
