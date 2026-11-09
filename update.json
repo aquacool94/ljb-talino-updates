@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.107-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.107-beta/LJB-Talino-Setup-0.1.107-beta.exe",
-    "sha256": "817d2fa643f6b92302f36a72e7221ba0ab46a15396fd702f0d2e7bf24594a435",
-    "size": 88611074,
-    "notes": "Adds daily and weekly participation line graphs by section, five attendance display styles with illustrated bus boarding, a transmutation reference tab with the official source link, and teacher sign-offs on copied activity summaries. Preserves existing records and settings.",
-    "published_at": "2026-11-09T14:14:15.490474+00:00"
+    "version": "0.1.108-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.108-beta/LJB-Talino-Setup-0.1.108-beta.exe",
+    "sha256": "276d2bc30ca6c2176b1552134cbcace941888c5278996ba12ced365912482296",
+    "size": 88643468,
+    "notes": "Adds Class Analytics with saved-data attendance, participation and submission graphs; Exam Performance with per-exam raw-score thresholds, distributions and item analysis; and one-click participation graphs with section pie charts. Preserves existing records, scores and settings.",
+    "published_at": "2026-11-09T22:18:11.848000+00:00"
   },
-  "signature": "5un9Nfo9Hqcuf8sxBHx2rIPEeP9boECUI/N9TjH7P244xnncUzDfBEUWnBtG7xEa0z3Ai1X0IeL8/BJ8E8U4CQ=="
+  "signature": "N6G+S7aOV0SWVW55fKosjIg9Zw9g0DiPRM/cazKNsSxMc7iLas8SXkD+sWGHaDiy3kXYZnoNNaXsWqK9XXSdCw=="
 }
