@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.108-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.108-beta/LJB-Talino-Setup-0.1.108-beta.exe",
-    "sha256": "276d2bc30ca6c2176b1552134cbcace941888c5278996ba12ced365912482296",
-    "size": 88643468,
-    "notes": "Adds Class Analytics with saved-data attendance, participation and submission graphs; Exam Performance with per-exam raw-score thresholds, distributions and item analysis; and one-click participation graphs with section pie charts. Preserves existing records, scores and settings.",
-    "published_at": "2026-11-09T22:18:11.848000+00:00"
+    "version": "0.1.109-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.109-beta/LJB-Talino-Setup-0.1.109-beta.exe",
+    "sha256": "c798fa8044fe082ad9a22997d001dd19cb9e90a208478372e8e2d11d86518ec2",
+    "size": 88652519,
+    "notes": "Human Shuffle has a refreshed blue-and-teal classroom display, card-wearing teammate artwork, a larger countdown with remaining-time indicator, colored group totals and raised answer cards. The answer stays private until Reveal.\n\nQuestion Bank now includes a Human Shuffle tab: search, create, edit, confirm deletion, or upload the CSV template. Existing uploads appear automatically. Prepared rounds, printable cards and points stay saved. The game can open this tab directly and refreshes its selector when you return.\n\nGroups has compact setup controls, visible saved groupings, and clearer colored cards with member counts and role labels. Participation records and Class Analytics have improved spacing, tabs and aligned controls.\n\nPreserves existing records and the features in 0.1.108-beta. Windows update only.",
+    "published_at": "2026-11-09T23:31:21.292565+00:00"
   },
-  "signature": "N6G+S7aOV0SWVW55fKosjIg9Zw9g0DiPRM/cazKNsSxMc7iLas8SXkD+sWGHaDiy3kXYZnoNNaXsWqK9XXSdCw=="
+  "signature": "3McKi4KZywyYyEV2lBXCv6EsbVdOpF1cfCghjwZoarfv5rOF5DVty2aqz5Ucn3FuXMpoRy9+ElWyRt1U5sZtBw=="
 }
