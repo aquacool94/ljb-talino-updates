@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.104-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.104-beta/LJB-Talino-Setup-0.1.104-beta.exe",
-    "sha256": "619301c614c839dce954a40b9da50a61323700e21c376a44386f124f7ea4a5f4",
-    "size": 83074685,
-    "notes": "Illustrated sidebar and Class Games icons, compact Students tabs, and corrected teaching-subject options.",
-    "published_at": "2026-11-08T23:05:45.590514+00:00"
+    "version": "0.1.105-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.105-beta/LJB-Talino-Setup-0.1.105-beta.exe",
+    "sha256": "a877a5a3d38c424fe5354558c367888a65f6f9630383db7fd6e7cb99f936aee2",
+    "size": 83105452,
+    "notes": "Adds Human Shuffle with printable cards, countdown, group scoring and CSV template upload; fixes score-panel spacing and adds the Assessment category in Activity Records.",
+    "published_at": "2026-11-09T01:59:55.243891+00:00"
   },
-  "signature": "P2GYlAhGwQJsF3bo9fwQZ4HcHi2PUlg/uQjPlD5LDE3+V0T+vL2om7x5AtyxaNiZ+K8WLICPjiq1LNCmX22BAw=="
+  "signature": "47lpND1Ux1ohSEsJaNJfqqBQz0WF1Bpr9vstyUCUPoVTHfxjd664iPbxPLBqRWCzYf5ycZRT8rE6WnNrMc+cAw=="
 }
