@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.109-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.109-beta/LJB-Talino-Setup-0.1.109-beta.exe",
-    "sha256": "c798fa8044fe082ad9a22997d001dd19cb9e90a208478372e8e2d11d86518ec2",
-    "size": 88652519,
-    "notes": "Human Shuffle has a refreshed blue-and-teal classroom display, card-wearing teammate artwork, a larger countdown with remaining-time indicator, colored group totals and raised answer cards. The answer stays private until Reveal.\n\nQuestion Bank now includes a Human Shuffle tab: search, create, edit, confirm deletion, or upload the CSV template. Existing uploads appear automatically. Prepared rounds, printable cards and points stay saved. The game can open this tab directly and refreshes its selector when you return.\n\nGroups has compact setup controls, visible saved groupings, and clearer colored cards with member counts and role labels. Participation records and Class Analytics have improved spacing, tabs and aligned controls.\n\nPreserves existing records and the features in 0.1.108-beta. Windows update only.",
-    "published_at": "2026-11-09T23:31:21.292565+00:00"
+    "version": "0.1.110-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.110-beta/LJB-Talino-Setup-0.1.110-beta.exe",
+    "sha256": "01013a8d4192183f2588faa644ea414f283d122e6d6823a677a47273acb0fce3",
+    "size": 88657117,
+    "notes": "Human Shuffle now has separate Word Builder and Sentence Builder choices. Choose a lesson set, then prepare a matching challenge. Next challenge stays within that lesson and style; reopening restores the saved round.\n\nQuestion Bank > Human Shuffle can create and rename lesson sets, assign existing challenges, and upload challenges into a selected set. Existing challenges remain under Unsorted until assigned.\n\nThe CSV template includes an optional Lesson Set column and can prefill the selected lesson title. Older four-column files and the Sentence Shuffle mode name still work. Duplicate detection is per set; the 200-challenge bank limit remains.\n\nPreserves existing challenges, prepared cards, rounds, scores and the 0.1.109 improvements. Windows update only.",
+    "published_at": "2026-11-10T00:39:10.660478+00:00"
   },
-  "signature": "3McKi4KZywyYyEV2lBXCv6EsbVdOpF1cfCghjwZoarfv5rOF5DVty2aqz5Ucn3FuXMpoRy9+ElWyRt1U5sZtBw=="
+  "signature": "XeumNEt2KAp1Jkhi+G897+Ck3Hytv/l6fi55mCa3IWF5sd7MH/49A6b9wKkuW06iKU6iTkJigQvCeVUXMB2VDA=="
 }
