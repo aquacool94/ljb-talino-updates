@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.110-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.110-beta/LJB-Talino-Setup-0.1.110-beta.exe",
-    "sha256": "01013a8d4192183f2588faa644ea414f283d122e6d6823a677a47273acb0fce3",
-    "size": 88657117,
-    "notes": "Human Shuffle now has separate Word Builder and Sentence Builder choices. Choose a lesson set, then prepare a matching challenge. Next challenge stays within that lesson and style; reopening restores the saved round.\n\nQuestion Bank > Human Shuffle can create and rename lesson sets, assign existing challenges, and upload challenges into a selected set. Existing challenges remain under Unsorted until assigned.\n\nThe CSV template includes an optional Lesson Set column and can prefill the selected lesson title. Older four-column files and the Sentence Shuffle mode name still work. Duplicate detection is per set; the 200-challenge bank limit remains.\n\nPreserves existing challenges, prepared cards, rounds, scores and the 0.1.109 improvements. Windows update only.",
-    "published_at": "2026-11-10T00:39:10.660478+00:00"
+    "version": "0.1.114-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.114-beta/LJB-Talino-Setup-0.1.114-beta.exe",
+    "sha256": "1b2e1f05140fb5fbf2d44d37269dc5444cbe872809321fc5888ed846a4bd55ae",
+    "size": 89532358,
+    "notes": "Student profile photos with immediate upload and teacher management; colorful sidebar icons; compact photo settings and mobile Student Portal with tap-to-change profile photo and improved tab spacing.",
+    "published_at": "2026-11-11T15:33:32.085433+00:00"
   },
-  "signature": "XeumNEt2KAp1Jkhi+G897+Ck3Hytv/l6fi55mCa3IWF5sd7MH/49A6b9wKkuW06iKU6iTkJigQvCeVUXMB2VDA=="
+  "signature": "tLlgb7BrFetuAqYvhvpay7u9q17uJBJYWf08ol6WbRoVX/iD0CVCwnLnCkhsvJeqvCd5fjwSZyXQ4vliQpUhBg=="
 }
