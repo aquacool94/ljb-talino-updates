@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.114-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.114-beta/LJB-Talino-Setup-0.1.114-beta.exe",
-    "sha256": "1b2e1f05140fb5fbf2d44d37269dc5444cbe872809321fc5888ed846a4bd55ae",
-    "size": 89532358,
-    "notes": "Student profile photos with immediate upload and teacher management; colorful sidebar icons; compact photo settings and mobile Student Portal with tap-to-change profile photo and improved tab spacing.",
-    "published_at": "2026-11-11T15:33:32.085433+00:00"
+    "version": "0.1.115-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.115-beta/LJB-Talino-Setup-0.1.115-beta.exe",
+    "sha256": "a6cc7230f1e636d3e2b0536867883aba5f64cee32bfc4d2c7f339111d90ca341",
+    "size": 89528373,
+    "notes": "A calmer teacher workspace with consistent buttons, tabs, headings, panel styling and readable sidebar labels, plus a teal accent for the current class. Includes all previous features and fixes.",
+    "published_at": "2026-11-12T15:24:50.257632+00:00"
   },
-  "signature": "tLlgb7BrFetuAqYvhvpay7u9q17uJBJYWf08ol6WbRoVX/iD0CVCwnLnCkhsvJeqvCd5fjwSZyXQ4vliQpUhBg=="
+  "signature": "So8vOjsvdyBZKxFcq3kV9KZhGEsfCi3C0l+vYjyQCDxlbTKM3sIMr+pA3lWib2KWOhBgnh0nWydbUhAOcF2NBg=="
 }
