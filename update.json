@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.115-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.115-beta/LJB-Talino-Setup-0.1.115-beta.exe",
-    "sha256": "a6cc7230f1e636d3e2b0536867883aba5f64cee32bfc4d2c7f339111d90ca341",
-    "size": 89528373,
-    "notes": "A calmer teacher workspace with consistent buttons, tabs, headings, panel styling and readable sidebar labels, plus a teal accent for the current class. Includes all previous features and fixes.",
-    "published_at": "2026-11-12T15:24:50.257632+00:00"
+    "version": "0.1.116-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.116-beta/LJB-Talino-Setup-0.1.116-beta.exe",
+    "sha256": "3e4c7d7e05b2ac677aff7bd2d1c882a6b70edb757a0760c02979f2694c2d6259",
+    "size": 89567671,
+    "notes": "Refined blue and mint workspace, organized Home, private tasks with calendar reminders, improved window controls and optional launch at Windows sign-in.",
+    "published_at": "2026-11-13T00:39:02.891010+00:00"
   },
-  "signature": "So8vOjsvdyBZKxFcq3kV9KZhGEsfCi3C0l+vYjyQCDxlbTKM3sIMr+pA3lWib2KWOhBgnh0nWydbUhAOcF2NBg=="
+  "signature": "sZQGGwoYGod4q/8pPTceD2Nfvu/4w84fRt0TgzBeEyKxMW8vvHgucmUQC+LGHgW1fwIvEBArgnSlyIPjg1oaBw=="
 }
