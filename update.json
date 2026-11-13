@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.116-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.116-beta/LJB-Talino-Setup-0.1.116-beta.exe",
-    "sha256": "3e4c7d7e05b2ac677aff7bd2d1c882a6b70edb757a0760c02979f2694c2d6259",
-    "size": 89567671,
-    "notes": "Refined blue and mint workspace, organized Home, private tasks with calendar reminders, improved window controls and optional launch at Windows sign-in.",
-    "published_at": "2026-11-13T00:39:02.891010+00:00"
+    "version": "0.1.117-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.117-beta/LJB-Talino-Setup-0.1.117-beta.exe",
+    "sha256": "f5ffe5cca63b67e7b299ca412de5c688dd9a5ed3274a261ab4f26c561d30c91d",
+    "size": 89568651,
+    "notes": "Refined desktop header, compact Add task popup and gentler sidebar page transitions.",
+    "published_at": "2026-11-13T02:18:48.131971+00:00"
   },
-  "signature": "sZQGGwoYGod4q/8pPTceD2Nfvu/4w84fRt0TgzBeEyKxMW8vvHgucmUQC+LGHgW1fwIvEBArgnSlyIPjg1oaBw=="
+  "signature": "AojMDeyKEeqPIGvsG1/ey4QiqPHJWbEWoiLIXeetlfjTqYqtkiTmOTN2OjVq4nAn4so5FFgh8dCvpzQgsEMmDg=="
 }
