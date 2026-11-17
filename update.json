@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.118-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.118-beta/LJB-Talino-Setup-0.1.118-beta.exe",
-    "sha256": "89ca370ce64a8633b293b639c48228692d5ca876ab9b942023c514a26a7fd58c",
-    "size": 89571960,
-    "notes": "My tasks: 19 common school-related categories with offline icons, category filters and calendar labels. Existing tasks are preserved.",
-    "published_at": "2026-11-16T13:15:39.939833+00:00"
+    "version": "0.1.119-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.119-beta/LJB-Talino-Setup-0.1.119-beta.exe",
+    "sha256": "1298b1197ae5410cd1ef8c4183af9185807a0862e0def34df05f78d4148cf73f",
+    "size": 89572792,
+    "notes": "Restores integrated window controls after slow startup, improves task reminder dismissal, and makes the learner access list open immediately with loading and retry.",
+    "published_at": "2026-11-17T03:48:48.617862+00:00"
   },
-  "signature": "d9HrMhrCaENuELGYVoPIcp4qghgZRmP3aMS/yvDdyvk266UDKGm9y693JgjI393iJrKqwOCEyD7hAMzPPv0uDA=="
+  "signature": "HPPFDO5+vtxHB2ufDxYr6hOFeTBCc4jJytlSTQA/lOSzszrQ1UaEakrZVRJDODWbEqrkkcdKCncGCINhQ8z/Bw=="
 }
