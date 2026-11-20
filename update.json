@@ -2,12 +2,12 @@
   "release": {
     "schema": 1,
     "product": "LJB Talino",
-    "version": "0.1.119-beta",
-    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.119-beta/LJB-Talino-Setup-0.1.119-beta.exe",
-    "sha256": "1298b1197ae5410cd1ef8c4183af9185807a0862e0def34df05f78d4148cf73f",
-    "size": 89572792,
-    "notes": "Restores integrated window controls after slow startup, improves task reminder dismissal, and makes the learner access list open immediately with loading and retry.",
-    "published_at": "2026-11-17T03:48:48.617862+00:00"
+    "version": "0.1.120-beta",
+    "url": "https://github.com/aquacool94/ljb-talino-updates/releases/download/v0.1.120-beta/LJB-Talino-Setup-0.1.120-beta.exe",
+    "sha256": "8318ec82176bbc65acf83f1d5848851fb6ffef3df4de9fe5b26e95cf0f9bbab8",
+    "size": 89579795,
+    "notes": "Standard Windows controls with close confirmation and pending-save protection; latest private portal and activity photo updates.",
+    "published_at": "2026-11-20T12:26:36.434537+00:00"
   },
-  "signature": "HPPFDO5+vtxHB2ufDxYr6hOFeTBCc4jJytlSTQA/lOSzszrQ1UaEakrZVRJDODWbEqrkkcdKCncGCINhQ8z/Bw=="
+  "signature": "oZ3LoPye5ylqLFNNZ7tnpR5SGWuhSuJ1kRlLMs/1nL71EgdbcnQxg5BS1w/u0o7UUFsBwL6wEY51hQNRHHTsBw=="
 }
